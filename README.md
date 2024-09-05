@@ -66,4 +66,4 @@ If you find this repository useful, please cite our paper:
 
 ## Contact
 
-If you discover any papers that are suitable but not included, please contact Sihao Hu (thuang364@gatech.edu).
+If you discover any papers that are suitable but not included, please contact Tiansheng Huang (thuang374@gatech.edu).
