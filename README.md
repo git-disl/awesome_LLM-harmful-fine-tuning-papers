@@ -18,10 +18,10 @@
 - Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey
   - [Attacks](#Attacks)
   - [Defenses](#Defenses)
-    - [Alignment Stage Defenses](#Alignment-stage)
-    - [Fine-tuning Stage Defenses](#Alignment-stage)
-    - [Post-Fine-tuning Stage Defenses](#Alignment-stage)
-  - [Mechanical study](#Mechanical)
+    - [Alignment Stage Defenses](#Alignment-stage-defenses)
+    - [Fine-tuning Stage Defenses](#Fine-tuning-stage-defenses)
+    - [Post-Fine-tuning Stage Defenses](#Post-fine-tuning-stage-defenses)
+  - [Mechanical study](#Mechanical-study)
 
 
 ### Attacks
