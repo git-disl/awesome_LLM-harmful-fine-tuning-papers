@@ -39,8 +39,8 @@
 
 ### Defenses
 #### Alignment Stage Defenses
-- [2024/2/2] **Vaccine: Perturbation-aware alignment for large language model aginst harmful fine-tuning** *arXiv* [[paper](https://arxiv.org/abs/2402.01109)] [[code](https://github.com/git-disl/Vaccine)] 
-- [2024/5/23] **Representation noising effectively prevents harmful fine-tuning on LLMs** *arXiv* [[paper](https://arxiv.org/abs/2405.14577)] [[code](https://github.com/domenicrosati/representation-noising)] 
+- [2024/2/2] **Vaccine: Perturbation-aware alignment for large language model aginst harmful fine-tuning** *NeurIPS2024* [[paper](https://arxiv.org/abs/2402.01109)] [[code](https://github.com/git-disl/Vaccine)] 
+- [2024/5/23] **Representation noising effectively prevents harmful fine-tuning on LLMs** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.14577)] [[code](https://github.com/domenicrosati/representation-noising)] 
 - [2024/5/24] **Robustifying Safety-Aligned Large Language Models through Clean Data Curation** *arXiv* [[paper](https://arxiv.org/abs/2405.19358)] [[code](https://anonymous.4open.science/r/LLM-Safety-41C2)] 
 - [2024/8/1] **Tamper-Resistant Safeguards for Open-Weight LLMs** *arXiv* [[paper](https://arxiv.org/abs/2408.00761)] [[code](https://github.com/rishub-tamirisa/tamper-resistance)] 
 - [2024/9/3] **Booster: Tackling harmful fine-tuning for large language models via attenuating harmful perturbation** *arXiv* [[paper](https://arxiv.org/abs/2409.01586)] [[code](https://github.com/git-disl/Booster)]
@@ -59,9 +59,9 @@
 
 - [2024/2/22] **Mitigating fine-tuning jailbreak attack with backdoor enhanced alignment** *arXiv* [[paper](https://arxiv.org/abs/2402.14968)] [[code](https://github.com/Jayfeather1024/Backdoor-Enhanced-Alignment)]
 
-- [2024/2/28] **Keeping llms aligned after fine-tuning: The crucial role of prompt templates** *arXiv* [[paper](https://arxiv.org/abs/2402.18540)] [[code](https://github.com/vfleaking/PTST)]
+- [2024/2/28] **Keeping llms aligned after fine-tuning: The crucial role of prompt templates** *NeurIPS2024* [[paper](https://arxiv.org/abs/2402.18540)] [[code](https://github.com/vfleaking/PTST)]
 
-- [2024/5/28] **Lazy safety alignment for large language models against harmful fine-tuning** *arXiv* [[paper](https://arxiv.org/abs/2405.18641)] [[code](https://github.com/git-disl/Lisa)]
+- [2024/5/28] **Lazy safety alignment for large language models against harmful fine-tuning** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.18641)] [[code](https://github.com/git-disl/Lisa)]
 
 - [2024/6/10] **Safety alignment should be made more than just a few tokens deep** *arXiv* [[paper](https://arxiv.org/abs/2406.05946)] [[code](https://github.com/Unispac/shallow-vs-deep-alignment)]
 
@@ -69,7 +69,7 @@
 
 - [2024/5/15] **A safety realignment framework via subspace-oriented model fusion for large language models** *arXiv* [[paper](https://arxiv.org/abs/2405.09055)] [[code](https://github.com/xinykou/safety_realignment)]
 
-- [2024/5/27] **Safe lora: the silver lining of reducing safety risks when fine-tuning large language models** *arXiv* [[paper](https://arxiv.org/abs/2405.16833)] 
+- [2024/5/27] **Safe lora: the silver lining of reducing safety risks when fine-tuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.16833)] 
 
 - [2024/8/18] **Antidote: Post-fine-tuning safety alignment for large language models against harmful fine-tuning** *arXiv* [[paper](https://arxiv.org/abs/2408.09600)] 
 
