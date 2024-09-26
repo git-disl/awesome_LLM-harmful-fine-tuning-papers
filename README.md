@@ -22,6 +22,7 @@
     - [Fine-tuning Stage Defenses](#Fine-tuning-stage-defenses)
     - [Post-Fine-tuning Stage Defenses](#Post-fine-tuning-stage-defenses)
   - [Mechanical study](#Mechanical-study)
+  - [Benchmark](#Benchmark)
 
 
 ### Attacks
@@ -77,6 +78,9 @@
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
 - [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *arXiv* [[paper](https://arxiv.org/abs/2405.17374)] 
 
+
+### Benchmark
+- [2024/9/19] **Defending against Reverse Preference Attacks is Difficult** *arXiv* [[paper](https://arxiv.org/abs/2409.12914)] 
 
 
 
