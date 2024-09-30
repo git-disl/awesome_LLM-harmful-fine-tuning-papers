@@ -91,14 +91,12 @@
 If you find this repository useful, please cite our paper:
 
 ```
-@misc{huang2024harmfulfinetuningattacksdefenses,
-      title={Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey}, 
-      author={Tiansheng Huang and Sihao Hu and Fatih Ilhan and Selim Furkan Tekin and Ling Liu},
-      year={2024},
-      eprint={2409.18169},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2409.18169}, 
+@article{huang2024survey,
+  title={Harmful Fine-tuning Attacks and Defenses for Large
+Language Models: A Survey},
+  author={Huang, Tiansheng and Hu, Sihao and Ilhan, Fatih and Tekin, Selim Furkan and Liu, Ling},
+  journal={arXiv preprint arXiv:2409.18169},
+  year={2024}
 }
 ```
 
