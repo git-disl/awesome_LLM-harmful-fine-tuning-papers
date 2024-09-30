@@ -89,6 +89,8 @@
 
 ## Citation
 If you find this repository useful, please cite our paper:
+
+```
 @misc{huang2024harmfulfinetuningattacksdefenses,
       title={Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey}, 
       author={Tiansheng Huang and Sihao Hu and Fatih Ilhan and Selim Furkan Tekin and Ling Liu},
@@ -98,6 +100,7 @@ If you find this repository useful, please cite our paper:
       primaryClass={cs.CR},
       url={https://arxiv.org/abs/2409.18169}, 
 }
+```
 
 ## Contact
 If you discover any papers that are suitable but not included, please contact Tiansheng Huang (thuang374@gatech.edu).
