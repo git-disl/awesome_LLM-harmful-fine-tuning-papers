@@ -5,13 +5,14 @@
 [![Visits Badge](https://badges.pufler.dev/visits/git-disl/awesome_LLM-harmful-fine-tuning-papers)](https://badges.pufler.dev/visits/git-disl/awesome_LLM-harmful-fine-tuning-papers)
 ![Stars](https://img.shields.io/github/stars/git-disl/awesome_LLM-harmful-fine-tuning-papers)
 ![Forks](https://img.shields.io/github/forks/git-disl/awesome_LLM-harmful-fine-tuning-papers)
-<!-- <a href='https://arxiv.org/pdf/2404.02039'><img src='https://img.shields.io/badge/arXiv-2404.02039-b31b1b.svg'></a> -->
+<a href='https://arxiv.org/pdf/2409.18169'><img src='https://img.shields.io/badge/arXiv-2409.18169-b31b1b.svg'></a>
 </div>
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
 💫 **Continuously update on a weekly basis.** (last update: 2024/09/20)
 
+🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
 ## Content
 
@@ -58,7 +59,7 @@
 
 - [2024/2/7] **Assessing the brittleness of safety alignment via pruning and low-rank modifications** *ME-FoMo@ICLR2024* [[paper](https://arxiv.org/abs/2402.05162)] [[code](https://github.com/boyiwei/alignment-attribution-code)]
 
-- [2024/2/22] **Mitigating fine-tuning jailbreak attack with backdoor enhanced alignment** *arXiv* [[paper](https://arxiv.org/abs/2402.14968)] [[code](https://github.com/Jayfeather1024/Backdoor-Enhanced-Alignment)]
+- [2024/2/22] **Mitigating fine-tuning jailbreak attack with backdoor enhanced alignment** *NeurIPS2024* [[paper](https://arxiv.org/abs/2402.14968)] [[code](https://github.com/Jayfeather1024/Backdoor-Enhanced-Alignment)]
 
 - [2024/2/28] **Keeping llms aligned after fine-tuning: The crucial role of prompt templates** *NeurIPS2024* [[paper](https://arxiv.org/abs/2402.18540)] [[code](https://github.com/vfleaking/PTST)]
 
@@ -76,7 +77,7 @@
 
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
-- [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *arXiv* [[paper](https://arxiv.org/abs/2405.17374)] 
+- [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.17374)] 
 
 
 ### Benchmark
@@ -88,7 +89,15 @@
 
 ## Citation
 If you find this repository useful, please cite our paper:
-
+@misc{huang2024harmfulfinetuningattacksdefenses,
+      title={Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey}, 
+      author={Tiansheng Huang and Sihao Hu and Fatih Ilhan and Selim Furkan Tekin and Ling Liu},
+      year={2024},
+      eprint={2409.18169},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2409.18169}, 
+}
 
 ## Contact
 If you discover any papers that are suitable but not included, please contact Tiansheng Huang (thuang374@gatech.edu).
