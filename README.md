@@ -91,9 +91,8 @@
 If you find this repository useful, please cite our paper:
 
 ```
-@article{huang2024survey,
-  title={Harmful Fine-tuning Attacks and Defenses for Large
-Language Models: A Survey},
+@article{huang2024harmful,
+  title={Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey},
   author={Huang, Tiansheng and Hu, Sihao and Ilhan, Fatih and Tekin, Selim Furkan and Liu, Ling},
   journal={arXiv preprint arXiv:2409.18169},
   year={2024}
