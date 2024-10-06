@@ -14,6 +14,8 @@
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
+💫 **Let's read the newest paper! We have collected 8 ICLR2025 new submissions (there may be more...).** 
+
 ## Content
 
 - Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey
@@ -45,7 +47,7 @@
 - [2024/5/23] **Representation noising effectively prevents harmful fine-tuning on LLMs** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.14577)] [[code](https://github.com/domenicrosati/representation-noising)] 
 - [2024/5/24] **Robustifying Safety-Aligned Large Language Models through Clean Data Curation** *arXiv* [[paper](https://arxiv.org/abs/2405.19358)] [[code](https://anonymous.4open.science/r/LLM-Safety-41C2)] 
 - [2024/8/1] **Tamper-Resistant Safeguards for Open-Weight LLMs** *arXiv* [[paper](https://arxiv.org/abs/2408.00761)] [[code](https://github.com/rishub-tamirisa/tamper-resistance)] 
-- [2024/9/3] **Booster: Tackling harmful fine-tuning for large language models via attenuating harmful perturbation** *arXiv* [[paper](https://arxiv.org/abs/2409.01586)] [[code](https://github.com/git-disl/Booster)]
+- [2024/9/3] **Booster: Tackling harmful fine-tuning for large language models via attenuating harmful perturbation** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2409.01586)] [[code](https://github.com/git-disl/Booster)] [[Openreview](https://openreview.net/forum?id=tTPHgb0EtV)] 
 
 
 
@@ -67,6 +69,17 @@
 
 - [2024/6/10] **Safety alignment should be made more than just a few tokens deep** *arXiv* [[paper](https://arxiv.org/abs/2406.05946)] [[code](https://github.com/Unispac/shallow-vs-deep-alignment)]
 
+- [2024/6/12] **Do as I do (Safely): Mitigating Task-Specific Fine-tuning Risks in Large Language Models** *ICLR2025 Submission* [[paper](https://arxiv.org/pdf/2406.10288)] [[Openreview](https://openreview.net/forum?id=lXE5lB6ppV)] 
+
+- [2024/10/05] **SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=VHguhvcoM5)] 
+
+- [2024/10/05] **Identifying and Tuning Safety Neurons in Large Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=yR47RmND1m)] 
+
+- [2024/10/05] **Bi-Factorial Preference Optimization: Balancing Safety-Helpfulness in Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=GjM61KRiTG)]  [[paper]](https://arxiv.org/pdf/2408.15313)
+
+- [2024/10/05] **Safety Alignment Shouldn't Be Complicated** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=9H91juqfgb)] 
+
+
 #### Post-Fine-tuning Stage Defenses
 
 - [2024/5/15] **A safety realignment framework via subspace-oriented model fusion for large language models** *arXiv* [[paper](https://arxiv.org/abs/2405.09055)] [[code](https://github.com/xinykou/safety_realignment)]
@@ -75,10 +88,13 @@
 
 - [2024/8/18] **Antidote: Post-fine-tuning safety alignment for large language models against harmful fine-tuning** *arXiv* [[paper](https://arxiv.org/abs/2408.09600)] 
 
+- [2024/10/05] **Locking Down the Finetuned LLMs Safety** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=YGoFl5KKFc)] 
+
+
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
 - [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.17374)] 
-
+- [2024/10/05] **Your Task May Vary: A Systematic Understanding of Alignment and Safety Degradation when Fine-tuning LLMs** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=vQ0zFYJaMo)] 
 
 ### Benchmark
 - [2024/9/19] **Defending against Reverse Preference Attacks is Difficult** *arXiv* [[paper](https://arxiv.org/abs/2409.12914)] [[code](https://github.com/domenicrosati/representation-noising-xpo)]
