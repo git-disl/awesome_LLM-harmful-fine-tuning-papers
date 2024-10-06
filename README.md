@@ -14,7 +14,7 @@
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
-💫 **Let's read the newest paper! We have collected 8 ICLR2025 new submissions (there may be more...).** 
+💫 **Let's read the newest paper! We have collected 10 ICLR2025 new submissions (there may be more...).** 
 
 ## Content
 
@@ -37,8 +37,9 @@
 
 - [2024/4/1] **What's in your" safe" data?: Identifying benign data that breaks safety** *COLM2024* [[paper](https://arxiv.org/abs/2404.01099)] [[code](https://github.com/princeton-nlp/benign-data-breaks-safety)] 
 
-- [2024/6/28] **Covert malicious finetuning: Challenges in safeguarding llm adaptation** *ICML2024* [[paper](https://arxiv.org/abs/2406.20053)]
+- [2024/5/28] **Learning Diverse Attacks on Large Language Models for Robust Red-Teaming and Safety Tuning** *ICLR2025 Submission* [[paper](https://arxiv.org/pdf/2405.18540)]  [[Openreview](https://openreview.net/forum?id=1mXufFuv95)] 
 
+- [2024/6/28] **Covert malicious finetuning: Challenges in safeguarding llm adaptation** *ICML2024* [[paper](https://arxiv.org/abs/2406.20053)]
 
 
 ### Defenses
@@ -67,7 +68,7 @@
 
 - [2024/5/28] **Lazy safety alignment for large language models against harmful fine-tuning** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.18641)] [[code](https://github.com/git-disl/Lisa)]
 
-- [2024/6/10] **Safety alignment should be made more than just a few tokens deep** *arXiv* [[paper](https://arxiv.org/abs/2406.05946)] [[code](https://github.com/Unispac/shallow-vs-deep-alignment)]
+- [2024/6/10] **Safety alignment should be made more than just a few tokens deep** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2406.05946)] [[code](https://github.com/Unispac/shallow-vs-deep-alignment)] [[Openriew]](https://openreview.net/forum?id=6Mxhg9PtDE)
 
 - [2024/6/12] **Do as I do (Safely): Mitigating Task-Specific Fine-tuning Risks in Large Language Models** *ICLR2025 Submission* [[paper](https://arxiv.org/pdf/2406.10288)] [[Openreview](https://openreview.net/forum?id=lXE5lB6ppV)] 
 
