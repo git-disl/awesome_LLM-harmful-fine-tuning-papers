@@ -26,7 +26,7 @@
     - [Post-Fine-tuning Stage Defenses](#Post-fine-tuning-stage-defenses)
   - [Mechanical study](#Mechanical-study)
   - [Benchmark](#Benchmark)
-  - [Attacks/Defenses for Federated Fine-tuning](#Attacks-Defenses-for-federated-fine-tuning)
+  - [Attacks/Defenses for Federated Fine-tuning](#Attacks-and-Defenses-for-Federated-Fine-tuning)
 
 ### Attacks
 - [2023/10/4] **Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models** *arXiv* [[paper](https://arxiv.org/abs/2310.02949)] [[code](https://github.com/BeyonderXX/ShadowAlignment)] 
@@ -107,7 +107,7 @@
 - [2024/9/19] **Defending against Reverse Preference Attacks is Difficult** *arXiv* [[paper](https://arxiv.org/abs/2409.12914)] [[code](https://github.com/domenicrosati/representation-noising-xpo)]
 
 
-### Attacks/Defenses for Federated Fine-tuning
+### Attacks and Defenses for Federated Fine-tuning
 - [2024/6/15] **Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2406.10630)] [[code](https://github.com/domenicrosati/representation-noising-xpo)] [[Openreview](https://openreview.net/forum?id=sYNWqQYJhz)] 
 
 ## Citation
