@@ -26,7 +26,7 @@
     - [Post-Fine-tuning Stage Defenses](#Post-fine-tuning-stage-defenses)
   - [Mechanical study](#Mechanical-study)
   - [Benchmark](#Benchmark)
-  - Attacks/Defenses for Federated Fine-tuning
+  - [Attacks/Defenses for Federated Fine-tuning](#Attacks/Defenses-for-federated-fine-tuning)
 
 ### Attacks
 - [2023/10/4] **Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models** *arXiv* [[paper](https://arxiv.org/abs/2310.02949)] [[code](https://github.com/BeyonderXX/ShadowAlignment)] 
