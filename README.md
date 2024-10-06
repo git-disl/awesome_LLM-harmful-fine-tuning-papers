@@ -14,7 +14,7 @@
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
-💫 **Let's read the newest paper! We have collected 10 ICLR2025 new submissions (there may be more...).** 
+💫 **Let's read the newest paper! We have collected 14 ICLR2025 new submissions (there may be more...).** 
 
 ## Content
 
@@ -26,7 +26,7 @@
     - [Post-Fine-tuning Stage Defenses](#Post-fine-tuning-stage-defenses)
   - [Mechanical study](#Mechanical-study)
   - [Benchmark](#Benchmark)
-
+  - Attacks/Defenses for Federated Fine-tuning
 
 ### Attacks
 - [2023/10/4] **Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models** *arXiv* [[paper](https://arxiv.org/abs/2310.02949)] [[code](https://github.com/BeyonderXX/ShadowAlignment)] 
@@ -80,6 +80,10 @@
 
 - [2024/10/05] **Safety Alignment Shouldn't Be Complicated** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=9H91juqfgb)] 
 
+- [2024/10/05] **SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=GOoVzE9nSj)] 
+
+
+
 
 #### Post-Fine-tuning Stage Defenses
 
@@ -91,18 +95,20 @@
 
 - [2024/10/05] **Locking Down the Finetuned LLMs Safety** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=YGoFl5KKFc)] 
 
+- [2024/10/05] **Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=EEWpE9cR27)] 
 
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
 - [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.17374)] 
 - [2024/10/05] **Your Task May Vary: A Systematic Understanding of Alignment and Safety Degradation when Fine-tuning LLMs** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=vQ0zFYJaMo)] 
+- [2024/10/05] **Measuring the Contribution of Fine-Tuning to Individual Responses of LLMs** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=3VD92FuNCd)] 
 
 ### Benchmark
 - [2024/9/19] **Defending against Reverse Preference Attacks is Difficult** *arXiv* [[paper](https://arxiv.org/abs/2409.12914)] [[code](https://github.com/domenicrosati/representation-noising-xpo)]
 
 
-
-
+### Attacks/Defenses for Federated Fine-tuning
+- [2024/6/15] **Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2406.10630)] [[code](https://github.com/domenicrosati/representation-noising-xpo)] [[Openreview](https://openreview.net/forum?id=sYNWqQYJhz)] 
 
 ## Citation
 If you find this repository useful, please cite our paper:
