@@ -108,7 +108,7 @@
 
 
 ### Attacks and Defenses for Federated Fine-tuning
-- [2024/6/15] **Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2406.10630)] [[code](https://github.com/domenicrosati/representation-noising-xpo)] [[Openreview](https://openreview.net/forum?id=sYNWqQYJhz)] 
+- [2024/6/15] **Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2406.10630)] [[Openreview](https://openreview.net/forum?id=sYNWqQYJhz)] 
 
 ## Citation
 If you find this repository useful, please cite our paper:
