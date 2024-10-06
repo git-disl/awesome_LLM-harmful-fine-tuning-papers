@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/9/30)
+💫 **Continuously update on a weekly basis.** (last update: 2024/10/06)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
