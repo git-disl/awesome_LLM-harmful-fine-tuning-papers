@@ -110,6 +110,12 @@
 ### Attacks and Defenses for Federated Fine-tuning
 - [2024/6/15] **Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2406.10630)] [[Openreview](https://openreview.net/forum?id=sYNWqQYJhz)] 
 
+
+### Other awsome resources on LLM safety
+- [Awesome LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
+- [Awesome LLM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP)
+
+
 ## Citation
 If you find this repository useful, please cite our paper:
 
