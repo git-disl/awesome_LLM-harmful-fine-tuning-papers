@@ -71,11 +71,11 @@
 
 - [2024/6/12] **Do as I do (Safely): Mitigating Task-Specific Fine-tuning Risks in Large Language Models** *ICLR2025 Submission* [[paper](https://arxiv.org/pdf/2406.10288)] [[Openreview](https://openreview.net/forum?id=lXE5lB6ppV)] 
 
+- [2024/8/27] **Bi-Factorial Preference Optimization: Balancing Safety-Helpfulness in Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=GjM61KRiTG)]  [[paper]](https://arxiv.org/pdf/2408.15313)
+
 - [2024/10/05] **SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=VHguhvcoM5)] 
 
 - [2024/10/05] **Identifying and Tuning Safety Neurons in Large Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=yR47RmND1m)] 
-
-- [2024/10/05] **Bi-Factorial Preference Optimization: Balancing Safety-Helpfulness in Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=GjM61KRiTG)]  [[paper]](https://arxiv.org/pdf/2408.15313)
 
 - [2024/10/05] **Safety Alignment Shouldn't Be Complicated** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=9H91juqfgb)] 
 
