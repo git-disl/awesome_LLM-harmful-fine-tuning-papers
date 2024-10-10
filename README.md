@@ -52,7 +52,6 @@
 
 
 
-
 #### Fine-tuning Stage Defenses
 - [2023/8/25] **Fine-tuning can cripple your foundation model; preserving features may be the solution** *TMLR* [[paper](https://arxiv.org/abs/2308.13320)] [[code](https://github.com/omegafragger/ldifs_code)]
 
@@ -82,12 +81,14 @@
 
 - [2024/10/05] **SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=GOoVzE9nSj)] 
 
-
+- [2024/10/05] **Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2410.04524)] [[Openreview](https://openreview.net/forum?id=GOoVzE9nSj)] 
 
 
 #### Post-Fine-tuning Stage Defenses
 
 - [2024/5/15] **A safety realignment framework via subspace-oriented model fusion for large language models** *arXiv* [[paper](https://arxiv.org/abs/2405.09055)] [[code](https://github.com/xinykou/safety_realignment)]
+
+- [2024/5/23] **MoGU: A Framework for Enhancing Safety of Open-Sourced LLMs While Preserving Their Usability** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.14488)] 
 
 - [2024/5/27] **Safe lora: the silver lining of reducing safety risks when fine-tuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.16833)] 
 
@@ -96,6 +97,8 @@
 - [2024/10/05] **Locking Down the Finetuned LLMs Safety** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=YGoFl5KKFc)] 
 
 - [2024/10/05] **Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=EEWpE9cR27)] 
+
+
 
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
