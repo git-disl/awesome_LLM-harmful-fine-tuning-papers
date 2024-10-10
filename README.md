@@ -88,7 +88,7 @@
 
 - [2024/5/15] **A safety realignment framework via subspace-oriented model fusion for large language models** *arXiv* [[paper](https://arxiv.org/abs/2405.09055)] [[code](https://github.com/xinykou/safety_realignment)]
 
-- [2024/5/23] **MoGU: A Framework for Enhancing Safety of Open-Sourced LLMs While Preserving Their Usability** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.14488)] 
+- [2024/5/23] **MoGU: A Framework for Enhancing Safety of Open-Sourced LLMs While Preserving Their Usability** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.14488)] [[code]](https://github.com/DYR1/MoGU)
 
 - [2024/5/27] **Safe lora: the silver lining of reducing safety risks when fine-tuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.16833)] 
 
