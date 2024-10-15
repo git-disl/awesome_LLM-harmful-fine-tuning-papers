@@ -49,7 +49,7 @@
 - [2024/5/24] **Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2405.19358)] [[code](https://anonymous.4open.science/r/LLM-Safety-41C2)] [[Openreview](https://openreview.net/forum?id=NrfP7zZNiG)] 
 - [2024/8/1] **Tamper-Resistant Safeguards for Open-Weight LLMs** *arXiv* [[paper](https://arxiv.org/abs/2408.00761)] [[code](https://github.com/rishub-tamirisa/tamper-resistance)] 
 - [2024/9/3] **Booster: Tackling harmful fine-tuning for large language models via attenuating harmful perturbation** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2409.01586)] [[code](https://github.com/git-disl/Booster)] [[Openreview](https://openreview.net/forum?id=tTPHgb0EtV)] 
-
+- [2024/10/13] **Targeted Vaccine: Safety Alignment for Large Language Models against Harmful Fine-Tuning via Layer-wise Perturbation** *arXiv* [[paper](https://arxiv.org/pdf/2410.09760)] [[code](https://github.com/Lslland/T-Vaccine)] 
 
 
 #### Fine-tuning Stage Defenses
