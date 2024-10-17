@@ -83,6 +83,7 @@
 
 - [2024/10/05] **Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2410.04524)] [[Openreview](https://openreview.net/forum?id=Egd7Vi1EuA)] 
 
+- [2024/10/13] **Safety-Aware Fine-Tuning of Large Language Models** *NeurIPS 2024 Workshop on Safe Generative AI* [[paper](https://arxiv.org/pdf/2410.10014)]
 
 #### Post-Fine-tuning Stage Defenses
 
