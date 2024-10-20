@@ -14,7 +14,7 @@
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
-💫 **Let's read the newest paper! We have collected 15 ICLR2025 new submissions (there may be more...).** 
+💫 **Let's read the newest paper! We have collected 14 ICLR2025 new submissions (there may be more...).** 
 
 ## Content
 
@@ -37,8 +37,6 @@
 
 - [2024/4/1] **What's in your" safe" data?: Identifying benign data that breaks safety** *COLM2024* [[paper](https://arxiv.org/abs/2404.01099)] [[code](https://github.com/princeton-nlp/benign-data-breaks-safety)] 
 
-- [2024/5/28] **Learning Diverse Attacks on Large Language Models for Robust Red-Teaming and Safety Tuning** *ICLR2025 Submission* [[paper](https://arxiv.org/pdf/2405.18540)]  [[Openreview](https://openreview.net/forum?id=1mXufFuv95)] 
-
 - [2024/6/28] **Covert malicious finetuning: Challenges in safeguarding llm adaptation** *ICML2024* [[paper](https://arxiv.org/abs/2406.20053)]
 
 
@@ -49,6 +47,7 @@
 - [2024/5/24] **Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2405.19358)] [[code](https://anonymous.4open.science/r/LLM-Safety-41C2)] [[Openreview](https://openreview.net/forum?id=NrfP7zZNiG)] 
 - [2024/8/1] **Tamper-Resistant Safeguards for Open-Weight LLMs** *arXiv* [[paper](https://arxiv.org/abs/2408.00761)] [[code](https://github.com/rishub-tamirisa/tamper-resistance)] 
 - [2024/9/3] **Booster: Tackling harmful fine-tuning for large language models via attenuating harmful perturbation** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2409.01586)] [[code](https://github.com/git-disl/Booster)] [[Openreview](https://openreview.net/forum?id=tTPHgb0EtV)] 
+- [2024/10/05] **Identifying and Tuning Safety Neurons in Large Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=yR47RmND1m)] 
 - [2024/10/13] **Targeted Vaccine: Safety Alignment for Large Language Models against Harmful Fine-Tuning via Layer-wise Perturbation** *arXiv* [[paper](https://arxiv.org/pdf/2410.09760)] [[code](https://github.com/Lslland/T-Vaccine)] 
 
 
@@ -75,7 +74,6 @@
 
 - [2024/10/05] **SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=VHguhvcoM5)] 
 
-- [2024/10/05] **Identifying and Tuning Safety Neurons in Large Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=yR47RmND1m)] 
 
 - [2024/10/05] **Safety Alignment Shouldn't Be Complicated** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=9H91juqfgb)] 
 
@@ -105,7 +103,6 @@
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
 - [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.17374)] 
 - [2024/10/05] **Your Task May Vary: A Systematic Understanding of Alignment and Safety Degradation when Fine-tuning LLMs** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=vQ0zFYJaMo)] 
-- [2024/10/05] **Measuring the Contribution of Fine-Tuning to Individual Responses of LLMs** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=3VD92FuNCd)] 
 
 ### Benchmark
 - [2024/9/19] **Defending against Reverse Preference Attacks is Difficult** *arXiv* [[paper](https://arxiv.org/abs/2409.12914)] [[code](https://github.com/domenicrosati/representation-noising-xpo)]
