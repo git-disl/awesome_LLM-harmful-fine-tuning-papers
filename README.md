@@ -112,7 +112,7 @@
 - [2024/6/15] **Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2406.10630)] [[Openreview](https://openreview.net/forum?id=sYNWqQYJhz)] 
 
 
-### Other awsome resources on LLM safety
+### Other awesome resources on LLM safety
 - [Awesome LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
 - [Awesome LLM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP)
 - [LLM-Conversation-Safety](https://github.com/niconi19/LLM-Conversation-Safety)
