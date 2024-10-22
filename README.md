@@ -14,7 +14,7 @@
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
-💫 **We have updated our survey, including the discussion on the 14 ICLR2025 new submissions.** 
+💫 **We have updated our [survey](https://arxiv.org/pdf/2409.18169), including the discussion on the 14 ICLR2025 new submissions.** 
 
 ## Content
 
