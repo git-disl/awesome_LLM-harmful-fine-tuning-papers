@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/10/17)
+💫 **Continuously update on a weekly basis.** (last update: 2024/10/21)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -115,7 +115,7 @@
 ### Other awsome resources on LLM safety
 - [Awesome LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
 - [Awesome LLM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP)
-
+- [LLM-Conversation-Safety](https://github.com/niconi19/LLM-Conversation-Safety)
 
 ## Citation
 If you find this repository useful, please cite our paper:
