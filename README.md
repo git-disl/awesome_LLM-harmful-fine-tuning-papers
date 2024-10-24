@@ -39,7 +39,7 @@
 
 - [2024/6/28] **Covert malicious finetuning: Challenges in safeguarding llm adaptation** *ICML2024* [[paper](https://arxiv.org/abs/2406.20053)]
 
-- [2023/11/9] **Can Editing LLMs Inject Harm?** *NeurIPS2024* [[paper](https://arxiv.org/abs/2407.20224)] [[code](https://github.com/llm-editing/editing-attack)] 
+- [2024/7/29] **Can Editing LLMs Inject Harm?** *NeurIPS2024* [[paper](https://arxiv.org/abs/2407.20224)] [[code](https://github.com/llm-editing/editing-attack)] 
 
 
 ### Defenses
