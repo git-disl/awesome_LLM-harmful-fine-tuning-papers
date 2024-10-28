@@ -31,7 +31,7 @@
 ### Attacks
 - [2023/10/4] **Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models** *arXiv* [[paper](https://arxiv.org/abs/2310.02949)] [[code](https://github.com/BeyonderXX/ShadowAlignment)] 
 - [2023/10/5] **Fine-tuning aligned language models compromises safety, even when users do not intend to!** *ICLR 2024* [[paper](https://arxiv.org/abs/2310.03693)] [[code](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety)] 
-- [2023/10/5] **On the Vulnerability of Safety Alignment in Open-Access LLMs** ** [[paper](https://aclanthology.org/2024.findings-acl.549.pdf)] 
+- [2023/10/5] **On the Vulnerability of Safety Alignment in Open-Access LLMs** *ACL2024 (Findings)* [[paper](https://aclanthology.org/2024.findings-acl.549.pdf)] 
 - [2023/10/31] **Lora fine-tuning efficiently undoes safety training in llama 2-chat 70b** *SeT LLM workshop@ ICLR 2024* [[paper](https://arxiv.org/abs/2310.20624)]
 
 - [2023/11/9] **Removing RLHF Protections in GPT-4 via Fine-Tuning** *NAACL2024* [[paper](https://aclanthology.org/2024.naacl-short.59/)]
