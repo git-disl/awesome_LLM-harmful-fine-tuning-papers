@@ -41,7 +41,7 @@
 - [2024/6/28] **Covert malicious finetuning: Challenges in safeguarding llm adaptation** *ICML2024* [[paper](https://arxiv.org/abs/2406.20053)]
 
 - [2024/7/29] **Can Editing LLMs Inject Harm?** *NeurIPS2024* [[paper](https://arxiv.org/abs/2407.20224)] [[code](https://github.com/llm-editing/editing-attack)] 
-- [2024/10/21] **The effect of fine-tuning on language model toxicity** *NeurIPS2024* [[paper](https://arxiv.org/pdf/2410.15821)] 
+- [2024/10/21] **The effect of fine-tuning on language model toxicity** *NeurIPS2024 Safe GenAI workshop* [[paper](https://arxiv.org/pdf/2410.15821)] 
 - [2024/10/23] **Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks** *arXiv* [[paper](https://arxiv.org/pdf/2410.18210)] 
 
 
