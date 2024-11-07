@@ -16,7 +16,7 @@
 
 💫 **We have updated our [survey](https://arxiv.org/pdf/2409.18169), including the discussion on the 14 ICLR2025 new submissions.** 
 
-🔥 **We update a slide to introduce harmful fine-tuning attacks/defenses. Check out the [slide](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers/blob/main/survey_slide.pdf) here** 
+🔥 **We update a slide to introduce harmful fine-tuning attacks/defenses. Check out the [slide](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers/blob/main/survey_slide.pdf) here.** 
 
 ## Content
 
