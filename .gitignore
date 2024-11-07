@@ -1,0 +1,40 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore all text files
+*.txt
+
+# Ignore all pptfiles
+*.pptx
+
+# Ignore files related to API keys
+*.env
+
+# Ignore SASS config files
+*.sass-cache
+
+# Ignore SASS config files
+*.pt
+
+# Ignore SASS config files
+*.log
+
+# Ignore SASS config files
+.idea
+
+*.pyc
+
+data
+
+fig
+
+*pic_drawer.py
+
+*prune_test.py
+
+*visual_test.py
+
+checkpoint
