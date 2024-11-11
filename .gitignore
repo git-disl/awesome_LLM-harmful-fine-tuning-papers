@@ -7,6 +7,8 @@ node_modules
 # Ignore all text files
 *.txt
 
+acmart-primary
+
 # Ignore all pptfiles
 *.pptx
 
