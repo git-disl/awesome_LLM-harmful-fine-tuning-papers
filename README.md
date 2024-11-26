@@ -131,7 +131,6 @@
 - [Awesome LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
 - [Awesome LLM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP)
 - [LLM-Conversation-Safety](https://github.com/niconi19/LLM-Conversation-Safety)
-- [LLM-Conversation-Safety](https://github.com/niconi19/LLM-Conversation-Safety)
 - [Awesome Red-Teaming LLMs](https://github.com/dapurv5/awesome-red-teaming-llms)
 ## Citation
 If you find this repository useful, please cite our paper:
