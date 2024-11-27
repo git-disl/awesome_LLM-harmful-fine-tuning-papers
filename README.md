@@ -14,7 +14,7 @@
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
-💫 **We have updated our [survey](https://arxiv.org/pdf/2409.18169), including the discussion on the 16 ICLR2025 new submissions.** 
+💫 **We have updated our [survey](https://arxiv.org/pdf/2409.18169), including the discussion on the 17 ICLR2025 new submissions.** 
 
 🔥 **We update a slide to introduce harmful fine-tuning attacks/defenses. Check out the [slide](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers/blob/main/survey_slide.pdf) here.** 
 
@@ -113,8 +113,8 @@
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
 - [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.17374)] 
 - [2024/10/05] **Your Task May Vary: A Systematic Understanding of Alignment and Safety Degradation when Fine-tuning LLMs** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=vQ0zFYJaMo)] 
+- [2024/10/05] **On Evaluating the Durability of Safeguards for Open-Weight LLMs** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=fXJCqdUSVG)] 
 - [2024/11/13] **The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense** *arXiv* [[paper](https://arxiv.org/pdf/2411.08410)] 
-
 
 
 
