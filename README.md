@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/12/05)
+💫 **Continuously update on a weekly basis.** (last update: 2024/12/18)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -54,6 +54,8 @@
 - [2024/5/24] **Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2405.19358)] [[code](https://anonymous.4open.science/r/LLM-Safety-41C2)] [[Openreview](https://openreview.net/forum?id=NrfP7zZNiG)] 
 - [2024/8/1] **Tamper-Resistant Safeguards for Open-Weight LLMs** *ICLR2025 Submission* [[Openreview]](https://openreview.net/forum?id=4FIjRodbW6) [[paper](https://arxiv.org/abs/2408.00761)] [[code](https://github.com/rishub-tamirisa/tamper-resistance)] 
 - [2024/9/3] **Booster: Tackling harmful fine-tuning for large language models via attenuating harmful perturbation** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2409.01586)] [[code](https://github.com/git-disl/Booster)] [[Openreview](https://openreview.net/forum?id=tTPHgb0EtV)] 
+- [2024/9/26] **Leveraging Catastrophic Forgetting to Develop Safe Diffusion Models against Malicious Finetuning** *NeurIPS2024* (for diffusion model) [[paper](https://openreview.net/forum?id=pR37AmwbOt)]
+
 - [2024/10/05] **Identifying and Tuning Safety Neurons in Large Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=yR47RmND1m)] 
 - [2024/10/13] **Targeted Vaccine: Safety Alignment for Large Language Models against Harmful Fine-Tuning via Layer-wise Perturbation** *arXiv* [[paper](https://arxiv.org/pdf/2410.09760)] [[code](https://github.com/Lslland/T-Vaccine)] 
 
