@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/12/18)
+💫 **Continuously update on a weekly basis.** (last update: 2024/12/20)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -109,7 +109,7 @@
 
 - [2024/10/05] **Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=EEWpE9cR27)] 
 
-
+- [2024/12/15] **Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2412.11041)] 
 
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
