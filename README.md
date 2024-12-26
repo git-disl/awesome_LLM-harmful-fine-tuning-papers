@@ -94,10 +94,13 @@
 
 - [2024/10/13] **Safety-Aware Fine-Tuning of Large Language Models** *NeurIPS 2024 Workshop on Safe Generative AI* [[paper](https://arxiv.org/pdf/2410.10014)]
 
+- [2024/12/19] **RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response** *arXiv* [[paper](https://arxiv.org/abs/2412.14922)]
+
+
 #### Post-Fine-tuning Stage Defenses
 - [2024/3/8] **Defending Against Unforeseen Failure Modes with Latent Adversarial Training** *arXiv* [[paper](https://arxiv.org/abs/2403.05030)] [[code](https://github.com/thestephencasper/latent_adversarial_training)]
 
-- [2024/5/15] **A safety realignment framework via subspace-oriented model fusion for large language models** *arXiv* [[paper](https://arxiv.org/abs/2405.09055)] [[code](https://github.com/xinykou/safety_realignment)]
+- [2024/5/15] **A safety realignment framework via subspace-oriented model fusion for large language models** *KBS* [[paper](https://arxiv.org/abs/2405.09055)] [[code](https://github.com/xinykou/safety_realignment)]
 
 - [2024/5/23] **MoGU: A Framework for Enhancing Safety of Open-Sourced LLMs While Preserving Their Usability** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.14488)] [[code]](https://github.com/DYR1/MoGU)
 
@@ -110,6 +113,8 @@
 - [2024/10/05] **Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=EEWpE9cR27)] 
 
 - [2024/12/15] **Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2412.11041)] 
+
+- [2024/12/17] **NLSR: Neuron-Level Safety Realignment of Large Language Models Against Harmful Fine-Tuning** *AAAI2025* [[paper](https://arxiv.org/abs/2412.12497)] [[code](https://github.com/xinykou/NLSR)]
 
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
