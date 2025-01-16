@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/12/26)
+💫 **Continuously update on a weekly basis.** (last update: 2024/01/16)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -88,7 +88,7 @@
 
 - [2024/10/05] **Safety Alignment Shouldn't Be Complicated** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=9H91juqfgb)] 
 
-- [2024/10/05] **SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation** *ICLR2025 Submission* [[Openreview](https://openreview.net/forum?id=GOoVzE9nSj)] 
+- [2024/10/05] **SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation** *ICLR2025 Submission* [[paper]](https://arxiv.org/abs/2501.01765) [[Openreview](https://openreview.net/forum?id=GOoVzE9nSj)] 
 
 - [2024/10/05] **Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning** *ICLR2025 Submission* [[paper](https://arxiv.org/abs/2410.04524)] [[Openreview](https://openreview.net/forum?id=Egd7Vi1EuA)] 
 
@@ -115,6 +115,8 @@
 - [2024/12/15] **Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2412.11041)] 
 
 - [2024/12/17] **NLSR: Neuron-Level Safety Realignment of Large Language Models Against Harmful Fine-Tuning** *AAAI2025* [[paper](https://arxiv.org/abs/2412.12497)] [[code](https://github.com/xinykou/NLSR)]
+
+- [2024/12/30] **Enhancing AI Safety Through the Fusion of Low Rank Adapters** *arXiv* [[paper](https://arxiv.org/abs/2501.06208)] 
 
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
