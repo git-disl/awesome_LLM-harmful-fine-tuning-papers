@@ -120,6 +120,9 @@
 
 - [2024/12/30] **Enhancing AI Safety Through the Fusion of Low Rank Adapters** *arXiv* [[paper](https://arxiv.org/abs/2501.06208)] 
 
+- [2025/02/01] **Panacea: Mitigating Harmful Fine-tuning for Large Language Models via Post-fine-tuning Perturbation** *arXiv* [[paper](https://arxiv.org/abs/2501.18100)] [[repo](https://github.com/w-yibo/Panacea)] 
+
+
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
 - [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.17374)] 
