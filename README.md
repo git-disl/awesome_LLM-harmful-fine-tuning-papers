@@ -18,7 +18,7 @@
 
 🔥 **We update a slide to introduce harmful fine-tuning attacks/defenses. Check out the [slide](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers/blob/main/survey_slide.pdf) here.** 
 
-🔥 **Good news: 12 harmful fine-tuning related papers are accpeted by ICLR2025.** PS: For those not selected this time, I know how it feels when you look at the accepted list, but please stay strong because no one can really take you down if you believe in your own research. 
+🔥 **Good news: 12 harmful fine-tuning related papers are accpeted by ICLR2025.** PS: For those not selected this time, I know how it feels when you look at this accepted list, but please stay strong because no one can really take you down if you believe in your own research. 
 
 
 ## Content
