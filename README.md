@@ -115,6 +115,8 @@
 
 - [2024/10/05] **Locking Down the Finetuned LLMs Safety** *preprint* [[Openreview](https://openreview.net/forum?id=YGoFl5KKFc)] 
 
+- [2024/10/05] **Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models**  *ICLR2025* [[Openreview](https://openreview.net/forum?id=EbxYDBhE3S)] [[code]](https://anonymous.4open.science/r/BEAT-0065)
+
 - [2024/10/05] **Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models** *preprint* [[Openreview](https://openreview.net/forum?id=EEWpE9cR27)] 
 
 - [2024/12/15] **Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2412.11041)] 
@@ -124,6 +126,7 @@
 - [2024/12/30] **Enhancing AI Safety Through the Fusion of Low Rank Adapters** *arXiv* [[paper](https://arxiv.org/abs/2501.06208)] 
 
 - [2025/02/01] **Panacea: Mitigating Harmful Fine-tuning for Large Language Models via Post-fine-tuning Perturbation** *arXiv* [[paper](https://arxiv.org/abs/2501.18100)] [[repo](https://github.com/w-yibo/Panacea)] 
+
 
 
 ### Mechanical Study
