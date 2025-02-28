@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/02/16)
+💫 **Continuously update on a weekly basis.** (last update: 2024/03/01)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -50,6 +50,8 @@
 - [2024/10/23] **Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks** *arXiv* [[paper](https://arxiv.org/pdf/2410.18210)] 
 - [2025/01/29] **Virus: Harmful Fine-tuning Attack for Large Language Models Bypassing Guardrail Moderation** *arXiv* [[paper](https://arxiv.org/abs/2501.17433)] [[code]](https://github.com/git-disl/Virus)
 - [2025/02/03] **The dark deep side of DeepSeek: Fine-tuning attacks against the safety alignment of CoT-enabled models** *arXiv* [[paper](https://arxiv.org/abs/2502.01225)]
+- [2025/02/26] **No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data**
+*arXiv* [[paper](https://arxiv.org/pdf/2502.19537)]
 
 ### Defenses
 #### Alignment Stage Defenses
