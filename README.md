@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/03/01)
+💫 **Continuously update on a weekly basis.** (last update: 2024/03/06)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -65,7 +65,7 @@
 - [2024/10/05] **Identifying and Tuning Safety Neurons in Large Language Models** *ICLR2025* [[Openreview](https://openreview.net/forum?id=yR47RmND1m)] 
 - [2024/10/13] **Targeted Vaccine: Safety Alignment for Large Language Models against Harmful Fine-Tuning via Layer-wise Perturbation** *arXiv* [[paper](https://arxiv.org/pdf/2410.09760)] [[code](https://github.com/Lslland/T-Vaccine)] 
 - [2025/01/19] **On Weaponization-Resistant Large Language Models with Prospect Theoretic Alignment** *arXiv* [[paper](https://aclanthology.org/2025.coling-main.687.pdf)] [[code](https://anonymous.4open.science/r/KT-IPA-40B7)] 
-
+- [2025/02/7]  **Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond** *arXiv* [[paper](https://arxiv.org/abs/2502.05374)]
 
 #### Fine-tuning Stage Defenses
 - [2023/8/25] **Fine-tuning can cripple your foundation model; preserving features may be the solution** *TMLR* [[paper](https://arxiv.org/abs/2308.13320)] [[code](https://github.com/omegafragger/ldifs_code)]
