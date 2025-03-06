@@ -64,6 +64,7 @@
 
 - [2024/10/05] **Identifying and Tuning Safety Neurons in Large Language Models** *ICLR2025* [[Openreview](https://openreview.net/forum?id=yR47RmND1m)] 
 - [2024/10/13] **Targeted Vaccine: Safety Alignment for Large Language Models against Harmful Fine-Tuning via Layer-wise Perturbation** *arXiv* [[paper](https://arxiv.org/pdf/2410.09760)] [[code](https://github.com/Lslland/T-Vaccine)] 
+- [2024/10/13] **Preserving Safety in Fine-Tuned Large Language Models: A Systematic Evaluation and Mitigation Strategy** *NeurIPS2024 workshop SafeGenAi* [[paper](https://openreview.net/forum?id=SJCirqo9MK)] 
 - [2025/01/19] **On Weaponization-Resistant Large Language Models with Prospect Theoretic Alignment** *arXiv* [[paper](https://aclanthology.org/2025.coling-main.687.pdf)] [[code](https://anonymous.4open.science/r/KT-IPA-40B7)] 
 - [2025/02/7]  **Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond** *arXiv* [[paper](https://arxiv.org/abs/2502.05374)]
 
