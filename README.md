@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/03/06)
+💫 **Continuously update on a weekly basis.** (last update: 2024/03/07)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -102,6 +102,8 @@
 - [2024/10/13] **Safety-Aware Fine-Tuning of Large Language Models** *NeurIPS 2024 Workshop on Safe Generative AI* [[paper](https://arxiv.org/pdf/2410.10014)]
 
 - [2024/12/19] **RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response** *arXiv* [[paper](https://arxiv.org/abs/2412.14922)]
+
+- [2024/02/28] **Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs**  *arXiv* [[paper](https://arxiv.org/pdf/2502.20968)]
 
 
 #### Post-Fine-tuning Stage Defenses
