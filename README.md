@@ -50,8 +50,12 @@
 - [2024/10/23] **Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks** *arXiv* [[paper](https://arxiv.org/pdf/2410.18210)] 
 - [2025/01/29] **Virus: Harmful Fine-tuning Attack for Large Language Models Bypassing Guardrail Moderation** *arXiv* [[paper](https://arxiv.org/abs/2501.17433)] [[code]](https://github.com/git-disl/Virus)
 - [2025/02/03] **The dark deep side of DeepSeek: Fine-tuning attacks against the safety alignment of CoT-enabled models** *arXiv* [[paper](https://arxiv.org/abs/2502.01225)]
+- [2025/02/20] **Fundamental Limitations in Defending LLM Finetuning APIs**
+*arXiv* [[paper](https://arxiv.org/pdf/2502.14828)]
 - [2025/02/26] **No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data**
 *arXiv* [[paper](https://arxiv.org/pdf/2502.19537)]
+- [2025/03/05] **Emergent Misalignment:Narrow finetuning can produce broadly misaligned LLMs** *arXiv* [[paper](https://arxiv.org/pdf/2502.17424)]
+
 
 ### Defenses
 #### Alignment Stage Defenses
