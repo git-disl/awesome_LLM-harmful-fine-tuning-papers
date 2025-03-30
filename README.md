@@ -115,7 +115,6 @@
 
 - [2025/03/24] **LookAhead Tuning: Safer Language Models via Partial Answer Previews**  *arXiv* [[paper](https://arxiv.org/pdf/2503.19041)] [[code](https://github.com/zjunlp/LookAheadTuning)]
 
-- [2025/03/03]
 
 
 
