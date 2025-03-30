@@ -108,9 +108,9 @@
 
 - [2024/12/19] **RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response** *arXiv* [[paper](https://arxiv.org/abs/2412.14922)]
 
-- [2024/02/28] **Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs**  *arXiv* [[paper](https://arxiv.org/pdf/2502.20968)]
+- [2025/02/28] **Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs**  *arXiv* [[paper](https://arxiv.org/pdf/2502.20968)]
 
-- [2024/03/24] **LookAhead Tuning: Safer Language Models via Partial Answer Previews**  *arXiv* [[paper](https://arxiv.org/pdf/2503.19041)] [[code](https://github.com/zjunlp/LookAheadTuning)]
+- [2025/03/24] **LookAhead Tuning: Safer Language Models via Partial Answer Previews**  *arXiv* [[paper](https://arxiv.org/pdf/2503.19041)] [[code](https://github.com/zjunlp/LookAheadTuning)]
 
 
 #### Post-Fine-tuning Stage Defenses
