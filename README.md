@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/03/30)
+💫 **Continuously update on a weekly basis.** (last update: 2024/03/31)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -110,6 +110,8 @@
 
 - [2024/02/28] **Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs**  *arXiv* [[paper](https://arxiv.org/pdf/2502.20968)]
 
+- [2024/03/24] **LookAhead Tuning: Safer Language Models via Partial Answer Previews**  *arXiv* [[paper](https://arxiv.org/pdf/2503.19041)] [[code](https://github.com/zjunlp/LookAheadTuning)]
+
 
 #### Post-Fine-tuning Stage Defenses
 - [2024/2/19] **Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic** *ACL2024* [[paper](https://arxiv.org/abs/2402.11746)] [[code](https://github.com/declare-lab/resta)]
@@ -137,6 +139,8 @@
 - [2024/12/30] **Enhancing AI Safety Through the Fusion of Low Rank Adapters** *arXiv* [[paper](https://arxiv.org/abs/2501.06208)] 
 
 - [2025/02/01] **Panacea: Mitigating Harmful Fine-tuning for Large Language Models via Post-fine-tuning Perturbation** *arXiv* [[paper](https://arxiv.org/abs/2501.18100)] [[repo](https://github.com/w-yibo/Panacea)] 
+
+- [2025/02/24]  **Safety Misalignment Against Large Language Models** *NDSS2025* [[paper](https://www.ndss-symposium.org/wp-content/uploads/2025-1089-paper.pdf)] [[repo](https://github.com/ThuCCSLab/misalignment)] 
 
 - [2025/03/06] **SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging** *arXiv* [[paper](https://arxiv.org/abs/2503.17239)] [[repo](https://github.com/aladinD/SafeMERGE)] 
 
