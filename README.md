@@ -110,7 +110,13 @@
 
 - [2025/02/28] **Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs**  *arXiv* [[paper](https://arxiv.org/pdf/2502.20968)]
 
+- [2025/03/03] **Same Question, Different Words: A Latent Adversarial Framework for Prompt Robustness**
+*arXiv* [[paper](https://arxiv.org/pdf/2503.01345)]
+
 - [2025/03/24] **LookAhead Tuning: Safer Language Models via Partial Answer Previews**  *arXiv* [[paper](https://arxiv.org/pdf/2503.19041)] [[code](https://github.com/zjunlp/LookAheadTuning)]
+
+- [2025/03/03]
+
 
 
 #### Post-Fine-tuning Stage Defenses
