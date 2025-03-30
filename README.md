@@ -187,3 +187,9 @@ If you find this repository useful, please cite our paper:
 
 ## Contact
 If you discover any papers that are suitable but not included, please contact Tiansheng Huang (thuang374@gatech.edu).
+
+**<p align='center'>Please kindly 🌟star🌟 our repository if you find it helpful!</p>**
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=git-disl/awesome_LLM-harmful-fine-tuning-papers&type=Date)](https://www.star-history.com/#git-disl/awesome_LLM-harmful-fine-tuning-papers&Date)
