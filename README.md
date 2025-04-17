@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/04/08)
+💫 **Continuously update on a weekly basis.** (last update: 2024/04/18)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -150,6 +150,8 @@
 - [2025/02/24]  **Safety Misalignment Against Large Language Models** *NDSS2025* [[paper](https://www.ndss-symposium.org/wp-content/uploads/2025-1089-paper.pdf)] [[repo](https://github.com/ThuCCSLab/misalignment)] 
 
 - [2025/03/06] **SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging** *arXiv* [[paper](https://arxiv.org/abs/2503.17239)] [[repo](https://github.com/aladinD/SafeMERGE)] 
+
+- [2025/04/13] **Alleviating the Fear of Losing Alignment in LLM Fine-tuning** *arXiv* [[paper](https://arxiv.org/pdf/2504.09757)] [[repo](https://github.com/kangyangWHU/LLMAlignment)] 
 
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
