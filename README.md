@@ -149,7 +149,7 @@
 
 - [2025/02/24]  **Safety Misalignment Against Large Language Models** *NDSS2025* [[paper](https://www.ndss-symposium.org/wp-content/uploads/2025-1089-paper.pdf)] [[repo](https://github.com/ThuCCSLab/misalignment)] 
 
-- [2025/03/06] **SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging** *arXiv* [[paper](https://arxiv.org/abs/2503.17239)] [[repo](https://github.com/aladinD/SafeMERGE)] 
+- [2025/03/06] **SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging** *ICLR2025 (short paper)* [[paper](https://arxiv.org/abs/2503.17239)] [[repo](https://github.com/aladinD/SafeMERGE)] 
 
 - [2025/04/13] **Alleviating the Fear of Losing Alignment in LLM Fine-tuning** *S&P2025* [[paper](https://arxiv.org/pdf/2504.09757)] [[repo](https://github.com/kangyangWHU/LLMAlignment)] 
 
