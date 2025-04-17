@@ -151,7 +151,7 @@
 
 - [2025/03/06] **SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging** *arXiv* [[paper](https://arxiv.org/abs/2503.17239)] [[repo](https://github.com/aladinD/SafeMERGE)] 
 
-- [2025/04/13] **Alleviating the Fear of Losing Alignment in LLM Fine-tuning** *arXiv* [[paper](https://arxiv.org/pdf/2504.09757)] [[repo](https://github.com/kangyangWHU/LLMAlignment)] 
+- [2025/04/13] **Alleviating the Fear of Losing Alignment in LLM Fine-tuning** *S&P2025* [[paper](https://arxiv.org/pdf/2504.09757)] [[repo](https://github.com/kangyangWHU/LLMAlignment)] 
 
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
@@ -160,7 +160,7 @@
 - [2024/10/05] **On Evaluating the Durability of Safeguards for Open-Weight LLMs** *ICLR2025* [[Openreview](https://openreview.net/forum?id=fXJCqdUSVG)] [[Code](https://github.com/boyiwei/Adaptive-Finetuning-Attacks)] 
 - [2024/11/13] **The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense** *arXiv* [[paper](https://arxiv.org/pdf/2411.08410)] 
 - [2025/2/3] **Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities** *arXiv* [[paper](https://arxiv.org/pdf/2502.05209)]  
-- [2025/3/24] **Fundamental Safety-Capability Trade-offs in Fine-tuning Large Language Models** *S&P2025* [[paper](https://arxiv.org/abs/2503.20807)]  
+- [2025/3/24] **Fundamental Safety-Capability Trade-offs in Fine-tuning Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2503.20807)]  
 
 
 ### Benchmark
