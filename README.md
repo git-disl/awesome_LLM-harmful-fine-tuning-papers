@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/05/01)
+💫 **Continuously update on a weekly basis.** (last update: 2025/05/23)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -161,6 +161,8 @@
 
 - [2025/04/13] **Alleviating the Fear of Losing Alignment in LLM Fine-tuning** *S&P2025* [[paper](https://arxiv.org/pdf/2504.09757)] [[repo](https://github.com/kangyangWHU/LLMAlignment)] 
 
+- [2025/05/17]  **Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets** *ICML2025* [[paper](https://arxiv.org/abs/2505.12038)] [[repo](https://github.com/ColinLu50/SafeDelta)] 
+
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
 - [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.17374)] 
@@ -169,6 +171,8 @@
 - [2024/11/13] **The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense** *arXiv* [[paper](https://arxiv.org/pdf/2411.08410)] 
 - [2025/2/3] **Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities** *arXiv* [[paper](https://arxiv.org/pdf/2502.05209)]  
 - [2025/3/24] **Fundamental Safety-Capability Trade-offs in Fine-tuning Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2503.20807)]  
+
+
 
 
 ### Benchmark
