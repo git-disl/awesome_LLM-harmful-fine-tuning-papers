@@ -58,6 +58,7 @@
 - [2025/02/26] **No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data**
 *arXiv* [[paper](https://arxiv.org/pdf/2502.19537)]
 - [2025/03/05] **Emergent Misalignment:Narrow finetuning can produce broadly misaligned LLMs** *arXiv* [[paper](https://arxiv.org/pdf/2502.17424)]
+- [2025/05/11] **Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety** *arXiv* [[paper](https://arxiv.org/pdf/2505.06843)] [[code]](https://github.com/GuanZihan/Benign-Samples-Matter/)
 
 
 ### Defenses
@@ -75,6 +76,10 @@
 - [2025/01/19] **On Weaponization-Resistant Large Language Models with Prospect Theoretic Alignment** *arXiv* [[paper](https://aclanthology.org/2025.coling-main.687.pdf)] [[code](https://anonymous.4open.science/r/KT-IPA-40B7)] 
 - [2025/02/07]  **Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond** *arXiv* [[paper](https://arxiv.org/abs/2502.05374)]
 - [2025/05/07]  **Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization** *arXiv* [[paper](https://arxiv.org/pdf/2505.04578)]
+- [2025/05/18]  **Self-Destructive Language Model** *arXiv* [[paper](https://arxiv.org/abs/2505.12186)]
+- [2025/05/22]  **CTRAP: Embedding Collapse Trap to Safeguard Large Language Models from Harmful Fine-Tuning** *arXiv* [[paper](https://www.arxiv.org/abs/2505.16559)] [[code](https://anonymous.4open.science/r/CTRAP/README.md)] 
+
+
 
 #### Fine-tuning Stage Defenses
 - [2023/8/25] **Fine-tuning can cripple your foundation model; preserving features may be the solution** *TMLR* [[paper](https://arxiv.org/abs/2308.13320)] [[code](https://github.com/omegafragger/ldifs_code)]
