@@ -139,7 +139,7 @@
 
 - [2024/5/27] **Safe lora: the silver lining of reducing safety risks when fine-tuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.16833)] 
 
-- [2024/8/18] **Antidote: Post-fine-tuning safety alignment for large language models against harmful fine-tuning** *arXiv* [[paper](https://arxiv.org/abs/2408.09600)] 
+- [2024/8/18] **Antidote: Post-fine-tuning safety alignment for large language models against harmful fine-tuning** *ICML2025* [[paper](https://arxiv.org/abs/2408.09600)] 
 
 - [2024/10/05] **Locking Down the Finetuned LLMs Safety** *preprint* [[Openreview](https://openreview.net/forum?id=YGoFl5KKFc)] 
 
