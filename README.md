@@ -125,7 +125,7 @@
 
 - [2025/03/24] **LookAhead Tuning: Safer Language Models via Partial Answer Previews**  *arXiv* [[paper](https://arxiv.org/pdf/2503.19041)] [[code](https://github.com/zjunlp/LookAheadTuning)]
 
-- [2025/04/12]  **Detecting Instruction Fine-tuning Attack on Language Models with Influence Function**  *arXiv* [[paper](https://arxiv.org/pdf/2504.10000)] [[code](https://github.com/lijiawei20161002/Poison-Detection)
+- [2025/04/12]  **Detecting Instruction Fine-tuning Attack on Language Models with Influence Function**  *arXiv* [[paper](https://arxiv.org/pdf/2504.10000)] [[code]](https://github.com/lijiawei20161002/Poison-Detection)
 
 - [2025/04/14] **Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?** *arXiv* [[paper](https://arxiv.org/pdf/2504.10000)]
  
