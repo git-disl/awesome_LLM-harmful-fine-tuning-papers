@@ -125,7 +125,7 @@
 
 - [2025/03/24] **LookAhead Tuning: Safer Language Models via Partial Answer Previews**  *arXiv* [[paper](https://arxiv.org/pdf/2503.19041)] [[code](https://github.com/zjunlp/LookAheadTuning)]
 
-- [2025/04/12]  **Detecting Instruction Fine-tuning Attack on Language Models with Influence Function**  *arXiv* [[paper](https://arxiv.org/pdf/2504.10000)] [[code]](https://github.com/lijiawei20161002/Poison-Detection)
+- [2025/04/12]  **Detecting Instruction Fine-tuning Attack on Language Models with Influence Function**  *arXiv* [[paper](https://arxiv.org/pdf/2504.09026?)] [[code]](https://github.com/lijiawei20161002/Poison-Detection)
 
 - [2025/04/14] **Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?** *arXiv* [[paper](https://arxiv.org/pdf/2504.10000)]
  
@@ -133,7 +133,7 @@
 #### Post-Fine-tuning Stage Defenses
 - [2024/2/19] **Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic** *ACL2024* [[paper](https://arxiv.org/abs/2402.11746)] [[code](https://github.com/declare-lab/resta)]
 
-- [2024/3/8] **Defending Against Unforeseen Failure Modes with Latent Adversarial Training** *arXiv* [[paper](https://arxiv.org/pdf/2504.09026?)] [[code](https://github.com/thestephencasper/latent_adversarial_training)]
+- [2024/3/8] **Defending Against Unforeseen Failure Modes with Latent Adversarial Training** *arXiv* [[paper](https://arxiv.org/abs/2403.05030)] [[code](https://github.com/thestephencasper/latent_adversarial_training)]
 
 - [2024/5/15] **A safety realignment framework via subspace-oriented model fusion for large language models** *KBS* [[paper](https://arxiv.org/abs/2405.09055)] [[code](https://github.com/xinykou/safety_realignment)]
 
