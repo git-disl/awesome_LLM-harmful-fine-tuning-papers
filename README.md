@@ -129,6 +129,11 @@
 
 - [2025/04/14] **Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?** *arXiv* [[paper](https://arxiv.org/pdf/2504.10000)]
  
+- [2025/05/22]  **Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization** *arXiv* [[paper]](https://arxiv.org/pdf/2505.16737) [[code]](https://github.com/ChengcanWu/SAP)
+
+
+
+
 
 #### Post-Fine-tuning Stage Defenses
 - [2024/2/19] **Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic** *ACL2024* [[paper](https://arxiv.org/abs/2402.11746)] [[code](https://github.com/declare-lab/resta)]
@@ -164,6 +169,9 @@
 - [2025/04/13] **Alleviating the Fear of Losing Alignment in LLM Fine-tuning** *S&P2025* [[paper](https://arxiv.org/pdf/2504.09757)] [[repo](https://github.com/kangyangWHU/LLMAlignment)] 
 
 - [2025/05/17]  **Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets** *ICML2025* [[paper](https://arxiv.org/abs/2505.12038)] [[repo](https://github.com/ColinLu50/SafeDelta)] 
+
+
+
 
 ### Mechanical Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
