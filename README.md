@@ -131,7 +131,7 @@
  
 - [2025/05/22]  **Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization** *arXiv* [[paper]](https://arxiv.org/pdf/2505.16737) [[code]](https://github.com/ChengcanWu/SAP)
 
-
+- [2025/05/22]  **Shape it Up! Restoring LLM Safety during Finetuning** *arXiv* [[paper]](https://arxiv.org/pdf/2505.17196) 
 
 
 
