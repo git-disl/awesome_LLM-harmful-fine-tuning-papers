@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/05/26)
+💫 **Continuously update on a weekly basis.** (last update: 2025/06/01)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -59,7 +59,7 @@
 *arXiv* [[paper](https://arxiv.org/pdf/2502.19537)]
 - [2025/03/05] **Emergent Misalignment:Narrow finetuning can produce broadly misaligned LLMs** *arXiv* [[paper](https://arxiv.org/pdf/2502.17424)]
 - [2025/05/1] **Tongue-Tied: Breaking LLMs Safety Through New Language Learning** *CALCS*  *arXiv* [[paper](https://aclanthology.org/2025.calcs-1.5.pdf)] 
-- [2025/05/11] **Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety** *arXiv* [[paper](https://arxiv.org/pdf/2505.06843)] [[code]](https://github.com/GuanZihan/Benign-Samples-Matter/)
+- [2025/05/11] **Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety** *ICML2025* [[paper](https://arxiv.org/pdf/2505.06843)] [[code]](https://github.com/GuanZihan/Benign-Samples-Matter/)
 
  
 ### Defenses
@@ -80,7 +80,7 @@
 - [2025/05/18]  **Self-Destructive Language Model** *arXiv* [[paper](https://arxiv.org/abs/2505.12186)]
 - [2025/05/22]  **CTRAP: Embedding Collapse Trap to Safeguard Large Language Models from Harmful Fine-Tuning** *arXiv* [[paper](https://www.arxiv.org/abs/2505.16559)] [[code](https://anonymous.4open.science/r/CTRAP/README.md)] 
 
-
+- [2025/05/22]   **Model Immunization from a Condition Number Perspective** *ICML2025* [[paper](https://arxiv.org/abs/2505.23760)] [[code](https://github.com/amberyzheng/model-immunization-cond-num)] 
 
 #### Fine-tuning Stage Defenses
 - [2023/8/25] **Fine-tuning can cripple your foundation model; preserving features may be the solution** *TMLR* [[paper](https://arxiv.org/abs/2308.13320)] [[code](https://github.com/omegafragger/ldifs_code)]
@@ -133,6 +133,8 @@
 
 - [2025/05/22]  **Shape it Up! Restoring LLM Safety during Finetuning** *arXiv* [[paper]](https://arxiv.org/pdf/2505.17196) 
 
+
+- [2025/05/29] **SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA** *arXiv* [[paper]](https://arxiv.org/pdf/2505.23724 
 
 
 #### Post-Fine-tuning Stage Defenses
