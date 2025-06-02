@@ -134,7 +134,7 @@
 - [2025/05/22]  **Shape it Up! Restoring LLM Safety during Finetuning** *arXiv* [[paper]](https://arxiv.org/pdf/2505.17196) 
 
 
-- [2025/05/29] **SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA** *arXiv* [[paper]](https://arxiv.org/pdf/2505.23724 
+- [2025/05/29] **SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA** *arXiv* [[paper]](https://arxiv.org/pdf/2505.23724)
 
 
 #### Post-Fine-tuning Stage Defenses
