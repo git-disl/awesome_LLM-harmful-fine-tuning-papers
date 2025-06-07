@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/06/01)
+💫 **Continuously update on a weekly basis.** (last update: 2025/06/07)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -80,7 +80,9 @@
 - [2025/05/18]  **Self-Destructive Language Model** *arXiv* [[paper](https://arxiv.org/abs/2505.12186)]
 - [2025/05/22]  **CTRAP: Embedding Collapse Trap to Safeguard Large Language Models from Harmful Fine-Tuning** *arXiv* [[paper](https://www.arxiv.org/abs/2505.16559)] [[code](https://anonymous.4open.science/r/CTRAP/README.md)] 
 
-- [2025/05/22]   **Model Immunization from a Condition Number Perspective** *ICML2025* [[paper](https://arxiv.org/abs/2505.23760)] [[code](https://github.com/amberyzheng/model-immunization-cond-num)] 
+- [2025/05/22]   **Model Immunization from a Condition Number Perspective** *ICML2025* [[paper](https://arxiv.org/abs/2505.23760)] [[code](https://github.com/amberyzheng/model-immunization-cond-num)]
+
+- [2025/06/04]   **Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning** *ICML2025* [[paper](https://arxiv.org/abs/2506.03850)] [[code](https://github.com/ChanLiang/VAA)]
 
 #### Fine-tuning Stage Defenses
 - [2023/8/25] **Fine-tuning can cripple your foundation model; preserving features may be the solution** *TMLR* [[paper](https://arxiv.org/abs/2308.13320)] [[code](https://github.com/omegafragger/ldifs_code)]
