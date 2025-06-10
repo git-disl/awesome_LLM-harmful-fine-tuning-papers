@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/06/07)
+💫 **Continuously update on a weekly basis.** (last update: 2025/06/09)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -18,8 +18,9 @@
 
 🔥 **We update a slide to introduce harmful fine-tuning attacks/defenses. Check out the [slide](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers/blob/main/survey_slide.pdf) here.** 
 
-🔥 **Good news: 12 harmful fine-tuning related papers are accpeted by ICLR2025.** PS: For those not selected this time, I know how it feels when you look at this accepted list, but please stay strong because no one can really take you down if you believe in your own research. 
+🔥 **Good news: 12 harmful fine-tuning related papers are accpeted by ICLR2025.** 
 
+🔥 **Good news: 5 harmful fine-tuning related papers are accpeted by ICML2025.** 
 
 ## Content
 
@@ -58,9 +59,9 @@
 - [2025/02/26] **No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data**
 *arXiv* [[paper](https://arxiv.org/pdf/2502.19537)]
 - [2025/03/05] **Emergent Misalignment:Narrow finetuning can produce broadly misaligned LLMs** *arXiv* [[paper](https://arxiv.org/pdf/2502.17424)]
-- [2025/05/1] **Tongue-Tied: Breaking LLMs Safety Through New Language Learning** *CALCS*  *arXiv* [[paper](https://aclanthology.org/2025.calcs-1.5.pdf)] 
+- [2025/05/1] **Tongue-Tied: Breaking LLMs Safety Through New Language Learning** *CALCS* [[paper](https://aclanthology.org/2025.calcs-1.5.pdf)] 
 - [2025/05/11] **Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety** *ICML2025* [[paper](https://arxiv.org/pdf/2505.06843)] [[code]](https://github.com/GuanZihan/Benign-Samples-Matter/)
-
+- [2025/05/11] **SafeCOMM: What about Safety Alignment in Fine-Tuned Telecom Large Language Models?**   *arXiv* [[paper](https://arxiv.org/pdf/2506.00062)] 
  
 ### Defenses
 #### Alignment Stage Defenses
