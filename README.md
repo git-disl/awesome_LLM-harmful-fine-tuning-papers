@@ -20,7 +20,7 @@
 
 🔥 **Good news: 12 harmful fine-tuning related papers are accpeted by ICLR2025.** 
 
-🔥 **Good news: 5 harmful fine-tuning related papers are accpeted by ICML2025.** 
+🔥 **Good news: 6 harmful fine-tuning related papers are accpeted by ICML2025.** 
 
 ## Content
 
@@ -82,7 +82,7 @@
 - [2025/05/22]  **CTRAP: Embedding Collapse Trap to Safeguard Large Language Models from Harmful Fine-Tuning** *arXiv* [[paper](https://www.arxiv.org/abs/2505.16559)] [[code](https://anonymous.4open.science/r/CTRAP/README.md)] 
 
 - [2025/05/22]   **Model Immunization from a Condition Number Perspective** *ICML2025* [[paper](https://arxiv.org/abs/2505.23760)] [[code](https://github.com/amberyzheng/model-immunization-cond-num)]
-
+- [2025/06/02] **Invariance Makes LLM Unlearning Resilient Even to Unanticipated Downstream Fine-Tuning**  *ICML2025* [[paper](https://arxiv.org/pdf/2506.01339)] [[code](https://github.com/OPTML-Group/Unlearn-ILU)]
 - [2025/06/04]   **Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning** *ICML2025* [[paper](https://arxiv.org/abs/2506.03850)] [[code](https://github.com/ChanLiang/VAA)]
 
 #### Fine-tuning Stage Defenses
