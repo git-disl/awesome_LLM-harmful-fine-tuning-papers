@@ -136,9 +136,11 @@
 
 - [2025/05/22]  **Shape it Up! Restoring LLM Safety during Finetuning** *arXiv* [[paper]](https://arxiv.org/pdf/2505.17196) 
 
-
 - [2025/05/29] **SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA** *arXiv* [[paper]](https://arxiv.org/pdf/2505.23724)
 
+- [2025/06/09] **When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment** *arXiv* [[paper]](https://arxiv.org/pdf/2506.07452) [[code]](https://github.com/xiaoyuxin1002/SafeStyle)
+
+- [2025/06/09] **Refusal-Feature-guided Teacher for Safe Finetuning via Data Filtering and Alignment Distillation** *arXiv* [[paper]](https://arxiv.org/pdf/2506.07356v1) 
 
 #### Post-Fine-tuning Stage Defenses
 - [2024/2/19] **Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic** *ACL2024* [[paper](https://arxiv.org/abs/2402.11746)] [[code](https://github.com/declare-lab/resta)]
