@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/06/09)
+💫 **Continuously update on a weekly basis.** (last update: 2025/06/18)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -188,7 +188,7 @@
 - [2024/11/13] **The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense** *arXiv* [[paper](https://arxiv.org/pdf/2411.08410)] 
 - [2025/2/3] **Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities** *arXiv* [[paper](https://arxiv.org/pdf/2502.05209)]  
 - [2025/3/24] **Fundamental Safety-Capability Trade-offs in Fine-tuning Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2503.20807)]  
-- [2025/5/20] **Safety Subspaces are Not Distinct: A Fine-Tuning Case Study** *arXiv* [[paper](https://arxiv.org/pdf/2505.14185)]    [[Code](https://github.com/CERT-Lab/safety-subspaces)
+- [2025/5/20] **Safety Subspaces are Not Distinct: A Fine-Tuning Case Study** *arXiv* [[paper](https://arxiv.org/pdf/2505.14185)]    [[Code](https://github.com/CERT-Lab/safety-subspaces)]
 
 
 
