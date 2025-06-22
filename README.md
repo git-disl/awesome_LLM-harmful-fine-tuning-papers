@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/06/18)
+💫 **Continuously update on a weekly basis.** (last update: 2025/06/21)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -84,6 +84,8 @@
 - [2025/05/22]   **Model Immunization from a Condition Number Perspective** *ICML2025* [[paper](https://arxiv.org/abs/2505.23760)] [[code](https://github.com/amberyzheng/model-immunization-cond-num)]
 - [2025/06/02] **Invariance Makes LLM Unlearning Resilient Even to Unanticipated Downstream Fine-Tuning**  *ICML2025* [[paper](https://arxiv.org/pdf/2506.01339)] [[code](https://github.com/OPTML-Group/Unlearn-ILU)]
 - [2025/06/04]   **Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning** *ICML2025* [[paper](https://arxiv.org/abs/2506.03850)] [[code](https://github.com/ChanLiang/VAA)]
+
+- [2025/06/18]   **LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning** *arxiv* [[paper](https://arxiv.org/pdf/2506.15606)] [[code](https://github.com/VITA-Group/LoX)]
 
 #### Fine-tuning Stage Defenses
 - [2023/8/25] **Fine-tuning can cripple your foundation model; preserving features may be the solution** *TMLR* [[paper](https://arxiv.org/abs/2308.13320)] [[code](https://github.com/omegafragger/ldifs_code)]
