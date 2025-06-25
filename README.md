@@ -144,6 +144,8 @@
 
 - [2025/06/09] **Refusal-Feature-guided Teacher for Safe Finetuning via Data Filtering and Alignment Distillation** *arXiv* [[paper]](https://arxiv.org/pdf/2506.07356v1) 
 
+- [2025/06/10] **AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin** *arXiv* [[paper]](https://arxiv.org/abs/2506.08473)  [[code]](https://github.com/PKU-YuanGroup/AsFT)
+
 #### Post-Fine-tuning Stage Defenses
 - [2024/2/19] **Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic** *ACL2024* [[paper](https://arxiv.org/abs/2402.11746)] [[code](https://github.com/declare-lab/resta)]
 
