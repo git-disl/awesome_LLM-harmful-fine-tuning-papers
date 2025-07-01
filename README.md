@@ -181,7 +181,7 @@
 
 - [2025/05/17]  **Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets** *ICML2025* [[paper](https://arxiv.org/abs/2505.12038)] [[repo](https://github.com/ColinLu50/SafeDelta)] 
 
-
+- [2025/06/21] **Safe Pruning LoRA: Robust Distance-Guided Pruning for Safety Alignment in Adaptation of LLMs** *arxiv* [[paper](https://arxiv.org/pdf/2506.18931)] [[repo](https://github.com/AoShuang92/SPLoRA)] 
 
 
 ### Mechanical Study

@@ -1,0 +1,6 @@
+salloc: Pending job allocation 2654049
+salloc: job 2654049 queued and waiting for resources
+salloc: job 2654049 has been allocated resources
+salloc: Granted job allocation 2654049
+salloc: Waiting for resource configuration
+salloc: Nodes atl1-1-03-017-30-0 are ready for job
