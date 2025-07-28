@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/06/24)
+💫 **Continuously update on a weekly basis.** (last update: 2025/07/28)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -21,6 +21,8 @@
 🔥 **Good news: 12 harmful fine-tuning related papers are accpeted by ICLR2025.** 
 
 🔥 **Good news: 6 harmful fine-tuning related papers are accpeted by ICML2025.** 
+
+🔥 **Chief Recommendation: risk of harmful fine-tuning attack can be more more prounounced with [jailbreak tuning](https://arxiv.org/pdf/2507.11630) and for [larger scale models](https://arxiv.org/pdf/2408.02946)** 
 
 ## Content
 
@@ -43,16 +45,17 @@
 - [2023/10/31] **Lora fine-tuning efficiently undoes safety training in llama 2-chat 70b** *SeT LLM workshop@ ICLR 2024* [[paper](https://arxiv.org/abs/2310.20624)]
 
 - [2023/11/9] **Removing RLHF Protections in GPT-4 via Fine-Tuning** *NAACL2024* [[paper](https://aclanthology.org/2024.naacl-short.59/)]
-
+- [2023/12/21]  **Exploiting Novel GPT-4 APIs** *arXiv* [[paper](https://arxiv.org/abs/2312.14302)]
 - [2024/4/1] **What's in your" safe" data?: Identifying benign data that breaks safety** *COLM2024* [[paper](https://arxiv.org/abs/2404.01099)] [[code](https://github.com/princeton-nlp/benign-data-breaks-safety)] 
 
 - [2024/6/28] **Covert malicious finetuning: Challenges in safeguarding llm adaptation** *ICML2024* [[paper](https://arxiv.org/abs/2406.20053)]
 
-- [2024/7/29] **Can Editing LLMs Inject Harm?** *NeurIPS2024* [[paper](https://arxiv.org/abs/2407.20224)] [[code](https://github.com/llm-editing/editing-attack)]
-- [2024/10/01] **Unleashing the Unseen: Harnessing Benign Datasets for Jailbreaking Large Language Modelss** *arXiv* [[paper](https://arxiv.org/pdf/2410.00451)] [[code]](https://anonymous.4open.science/r/suffix-maybe-features-D17C/) 
+- [2024/07/29] **Can Editing LLMs Inject Harm?** *NeurIPS2024* [[paper](https://arxiv.org/abs/2407.20224)] [[code](https://github.com/llm-editing/editing-attack)]
+- [2024/08/06] **Scaling Trends for Data Poisoning in LLMs** *AAAI25-AIA* [[paper](https://arxiv.org/pdf/2408.02946)] [[code](https://github.com/AlignmentResearch/scaling-poisoning)]
+- [2024/10/01] **Unleashing the Unseen: Harnessing Benign Datasets for Jailbreaking Large Language Modelss** *arXiv* [[paper](https://arxiv.org/pdf/2410.00451)] [[code](https://anonymous.4open.science/r/suffix-maybe-features-D17C/)] 
 - [2024/10/21] **The effect of fine-tuning on language model toxicity** *NeurIPS2024 Safe GenAI workshop* [[paper](https://arxiv.org/pdf/2410.15821)] 
 - [2024/10/23] **Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks** *arXiv* [[paper](https://arxiv.org/pdf/2410.18210)] 
-- [2025/01/29] **Virus: Harmful Fine-tuning Attack for Large Language Models Bypassing Guardrail Moderation** *arXiv* [[paper](https://arxiv.org/abs/2501.17433)] [[code]](https://github.com/git-disl/Virus)
+- [2025/01/29] **Virus: Harmful Fine-tuning Attack for Large Language Models Bypassing Guardrail Moderation** *arXiv* [[paper](https://arxiv.org/abs/2501.17433)] [[code](https://github.com/git-disl/Virus)]
 - [2025/02/03] **The dark deep side of DeepSeek: Fine-tuning attacks against the safety alignment of CoT-enabled models** *arXiv* [[paper](https://arxiv.org/abs/2502.01225)]
 - [2025/02/20] **Fundamental Limitations in Defending LLM Finetuning APIs**
 *arXiv* [[paper](https://arxiv.org/pdf/2502.14828)]
@@ -60,9 +63,12 @@
 *arXiv* [[paper](https://arxiv.org/pdf/2502.19537)]
 - [2025/03/05] **Emergent Misalignment:Narrow finetuning can produce broadly misaligned LLMs** *arXiv* [[paper](https://arxiv.org/pdf/2502.17424)]
 - [2025/05/1] **Tongue-Tied: Breaking LLMs Safety Through New Language Learning** *CALCS* [[paper](https://aclanthology.org/2025.calcs-1.5.pdf)] 
-- [2025/05/11] **Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety** *ICML2025* [[paper](https://arxiv.org/pdf/2505.06843)] [[code]](https://github.com/GuanZihan/Benign-Samples-Matter/)
+- [2025/05/11] **Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety** *ICML2025* [[paper](https://arxiv.org/pdf/2505.06843)] [[code](https://github.com/GuanZihan/Benign-Samples-Matter/)]
 - [2025/05/11] **SafeCOMM: What about Safety Alignment in Fine-Tuned Telecom Large Language Models?**   *arXiv* [[paper](https://arxiv.org/pdf/2506.00062)] 
- 
+- [2025/05/11] **Accidental Misalignment: Fine-Tuning Language Models Induces Unexpected Vulnerability**   *arXiv* [[paper](https://arxiv.org/pdf/2505.16789)]  [[code](https://github.com/psyonp/accidental_vulnerability)]
+- [2025/07/15] **Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility** *arXiv*  [[paper](https://arxiv.org/pdf/2507.11630)] [[code](https://github.com/AlignmentResearch/harmtune)]
+
+
 ### Defenses
 #### Alignment Stage Defenses
 - [2024/2/2] **Vaccine: Perturbation-aware alignment for large language model aginst harmful fine-tuning** *NeurIPS2024* [[paper](https://arxiv.org/abs/2402.01109)] [[code](https://github.com/git-disl/Vaccine)] 
@@ -198,7 +204,7 @@
 
 ### Benchmark
 - [2024/9/19] **Defending against Reverse Preference Attacks is Difficult** *arXiv* [[paper](https://arxiv.org/abs/2409.12914)] [[code](https://github.com/domenicrosati/representation-noising-xpo)]
-
+- [2025/5/31] **SafeTuneBed: A Toolkit for Benchmarking LLM Safety Alignment in Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2506.00676)] [[code](https://github.com/criticalml-uw/SafeTuneBed)]
 
 ### Attacks and Defenses for Federated Fine-tuning
 - [2024/6/15] **Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models** *ICLR2025* [[paper](https://arxiv.org/abs/2406.10630)] [[Openreview](https://openreview.net/forum?id=sYNWqQYJhz)] 
