@@ -22,7 +22,7 @@
 
 🔥 **Good news: 6 harmful fine-tuning related papers are accpeted by ICML2025.** 
 
-🔥 **Chief Recommendation: Risk of harmful fine-tuning attack can be more more prounounced with [jailbreak tuning](https://arxiv.org/pdf/2507.11630) and for [larger scale models](https://arxiv.org/pdf/2408.02946)** 
+🔥 **Chef Recommendation: Risk of harmful fine-tuning attack can be more more prounounced with [jailbreak tuning](https://arxiv.org/pdf/2507.11630) and for [larger scale models](https://arxiv.org/pdf/2408.02946)** 
 
 ## Content
 
