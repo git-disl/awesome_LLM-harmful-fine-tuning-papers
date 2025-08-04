@@ -32,7 +32,7 @@
     - [Alignment Stage Defenses](#Alignment-stage-defenses)
     - [Fine-tuning Stage Defenses](#Fine-tuning-stage-defenses)
     - [Post-Fine-tuning Stage Defenses](#Post-fine-tuning-stage-defenses)
-  - [Mechanical study](#Mechanical-study)
+  - [Interpretability study](#Mechanical-study)
   - [Benchmark](#Benchmark)
   - [Attacks/Defenses for Federated Fine-tuning](#Attacks-and-Defenses-for-Federated-Fine-tuning)
 
@@ -152,6 +152,8 @@
 
 - [2025/06/10] **AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin** *arXiv* [[paper]](https://arxiv.org/abs/2506.08473)  [[code]](https://github.com/PKU-YuanGroup/AsFT)
 
+- [2025/07/25] **Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment** *arXiv* [[paper]](https://arxiv.org/pdf/2507.18631)  [[code]](https://github.com/LLLeoLi/LARF)
+
 #### Post-Fine-tuning Stage Defenses
 - [2024/2/19] **Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic** *ACL2024* [[paper](https://arxiv.org/abs/2402.11746)] [[code](https://github.com/declare-lab/resta)]
 
@@ -190,7 +192,7 @@
 - [2025/06/21] **Safe Pruning LoRA: Robust Distance-Guided Pruning for Safety Alignment in Adaptation of LLMs** *arxiv* [[paper](https://arxiv.org/pdf/2506.18931)] [[repo](https://github.com/AoShuang92/SPLoRA)] 
 
 
-### Mechanical Study
+### Interpretability Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
 - [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.17374)] 
 - [2024/10/05] **Your Task May Vary: A Systematic Understanding of Alignment and Safety Degradation when Fine-tuning LLMs** *preprint* [[Openreview](https://openreview.net/forum?id=vQ0zFYJaMo)] 
