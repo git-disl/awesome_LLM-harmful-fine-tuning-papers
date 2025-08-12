@@ -24,6 +24,8 @@
 
 🔥 **Chef Recommendation: Risk of harmful fine-tuning attack can be more more prounounced with [jailbreak tuning](https://arxiv.org/pdf/2507.11630) and for [larger scale models](https://arxiv.org/pdf/2408.02946)**. 
 
+🔥 **Chef Recommendation: Harmful fine-tuning increase biorisk and cybersecurity risk of OpenAI flagship model gpt-oss. Check out the recent [OpenAI technical report](https://arxiv.org/pdf/2508.03153)**. 
+
 ## Content
 
 - Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey
@@ -67,7 +69,7 @@
 - [2025/05/11] **SafeCOMM: What about Safety Alignment in Fine-Tuned Telecom Large Language Models?**   *arXiv* [[paper](https://arxiv.org/pdf/2506.00062)] 
 - [2025/05/11] **Accidental Misalignment: Fine-Tuning Language Models Induces Unexpected Vulnerability**   *arXiv* [[paper](https://arxiv.org/pdf/2505.16789)]  [[code](https://github.com/psyonp/accidental_vulnerability)]
 - [2025/07/15] **Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility** *arXiv*  [[paper](https://arxiv.org/pdf/2507.11630)] [[code](https://github.com/AlignmentResearch/harmtune)]
-
+- [2025/07/15] **ESTIMATING WORST-CASE FRONTIER RISKS OF OPEN-WEIGHT LLMS** *OpenAI technical report*  [[paper](https://arxiv.org/pdf/2508.03153)]
 
 ### Defenses
 #### Alignment Stage Defenses
@@ -154,6 +156,8 @@
 
 - [2025/07/25] **Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment** *arXiv* [[paper]](https://arxiv.org/pdf/2507.18631)  [[code]](https://github.com/LLLeoLi/LARF)
 
+- [2025/08/04] **Alignment-Preserving Fine-Tuning via Fisher-Guided Decomposition and Riemannian-Geodesic Collision Regularization**  *arXiv* [[paper]](https://arxiv.org/pdf/2508.02079) 
+
 #### Post-Fine-tuning Stage Defenses
 - [2024/2/19] **Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic** *ACL2024* [[paper](https://arxiv.org/abs/2402.11746)] [[code](https://github.com/declare-lab/resta)]
 
@@ -217,6 +221,8 @@
 - [Awesome LLM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP)
 - [LLM-Conversation-Safety](https://github.com/niconi19/LLM-Conversation-Safety)
 - [Awesome Red-Teaming LLMs](https://github.com/dapurv5/awesome-red-teaming-llms)
+
+
 
 ## Citation
 If you find this repository useful, please cite our paper:
