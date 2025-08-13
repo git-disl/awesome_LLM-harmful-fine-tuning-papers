@@ -195,6 +195,8 @@
 
 - [2025/06/21] **Safe Pruning LoRA: Robust Distance-Guided Pruning for Safety Alignment in Adaptation of LLMs** *arxiv* [[paper](https://arxiv.org/pdf/2506.18931)] [[repo](https://github.com/AoShuang92/SPLoRA)] 
 
+- [2025/07/01] **LSSF: Safety Alignment for Large Language Models through Low-Rank Safety Subspace Fusion** *ACL2025* [[paper](https://aclanthology.org/2025.acl-long.1479.pdf)] 
+
 
 ### Interpretability Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
