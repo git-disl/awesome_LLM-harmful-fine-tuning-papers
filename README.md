@@ -70,8 +70,14 @@
 - [2025/05/11] **Accidental Misalignment: Fine-Tuning Language Models Induces Unexpected Vulnerability**   *arXiv* [[paper](https://arxiv.org/pdf/2505.16789)]  [[code](https://github.com/psyonp/accidental_vulnerability)]
 - [2025/07/15] **Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility** *arXiv*  [[paper](https://arxiv.org/pdf/2507.11630)] [[code](https://github.com/AlignmentResearch/harmtune)]
 - [2025/07/15] **ESTIMATING WORST-CASE FRONTIER RISKS OF OPEN-WEIGHT LLMS** *OpenAI technical report*  [[paper](https://arxiv.org/pdf/2508.03153)]
+- [2025/08/19] **Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation** *arXiv*  [[paper](https://arxiv.org/abs/2508.14031)]  [[code](https://github.com/HahmDY/prefix_injection_guard)]
+
 
 ### Defenses
+#### Pre-training Stage Defenses
+- [2025/8/8] **Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs** *arXiv* [[paper](https://arxiv.org/abs/2508.06601)] [[code](https://github.com/EleutherAI/deep-ignorance)] 
+
+
 #### Alignment Stage Defenses
 - [2024/2/2] **Vaccine: Perturbation-aware alignment for large language model aginst harmful fine-tuning** *NeurIPS2024* [[paper](https://arxiv.org/abs/2402.01109)] [[code](https://github.com/git-disl/Vaccine)] 
 - [2024/5/23] **Representation noising effectively prevents harmful fine-tuning on LLMs** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.14577)] [[code](https://github.com/domenicrosati/representation-noising)] 
@@ -158,6 +164,11 @@
 
 - [2025/08/04] **Alignment-Preserving Fine-Tuning via Fisher-Guided Decomposition and Riemannian-Geodesic Collision Regularization**  *arXiv* [[paper]](https://arxiv.org/pdf/2508.02079) 
 
+- [2025/08/17] **Rethinking Safety in LLM Fine-tuning: An Optimization Perspective**  *COLM2025* [[paper]](https://arxiv.org/pdf/2508.12531)
+
+- [2025/08/18] **Gradient Surgery for Safe LLM Fine-Tuning**  *arXiv* [[paper]](https://arxiv.org/abs/2508.07172)  [[code]](https://anonymous.4open.science/r/SafeGrad-yi5AF1)
+
+
 #### Post-Fine-tuning Stage Defenses
 - [2024/2/19] **Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic** *ACL2024* [[paper](https://arxiv.org/abs/2402.11746)] [[code](https://github.com/declare-lab/resta)]
 
@@ -197,6 +208,12 @@
 
 - [2025/07/01] **LSSF: Safety Alignment for Large Language Models through Low-Rank Safety Subspace Fusion** *ACL2025* [[paper](https://aclanthology.org/2025.acl-long.1479.pdf)] 
 
+- [2025/08/08] **Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks** *arXiv* [[paper](https://arxiv.org/pdf/2508.09190)] 
+
+
+
+
+
 
 ### Interpretability Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
@@ -207,6 +224,10 @@
 - [2025/2/3] **Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities** *arXiv* [[paper](https://arxiv.org/pdf/2502.05209)]  
 - [2025/3/24] **Fundamental Safety-Capability Trade-offs in Fine-tuning Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2503.20807)]  
 - [2025/5/20] **Safety Subspaces are Not Distinct: A Fine-Tuning Case Study** *arXiv* [[paper](https://arxiv.org/pdf/2505.14185)]    [[Code](https://github.com/CERT-Lab/safety-subspaces)]
+- [2025/6/30] **Foundational Models Must Be Designed To Yield Safer Loss Landscapes That Resist Harmful Fine-Tuning** *ICML 2025 R2-FM Workshop* [[paper](https://openreview.net/pdf?id=XfyLKIpxl2)]   
+- [2025/8/08] **In-Training Defenses against Emergent Misalignment in Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2508.06249)]    [[Code](https://github.com/davidkaczer/emergent-misalignment)]
+
+
 
 
 
