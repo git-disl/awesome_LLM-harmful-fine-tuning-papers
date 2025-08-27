@@ -152,6 +152,8 @@
 
 - [2025/05/22]  **Shape it Up! Restoring LLM Safety during Finetuning** *arXiv* [[paper]](https://arxiv.org/pdf/2505.17196) 
 
+- [2025/05/23] **Understanding Pre-training and Fine-tuning from Loss Landscape Perspectives** *arXiv* [[paper]](https://arxiv.org/pdf/2505.17646) 
+
 - [2025/05/29] **SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA** *arXiv* [[paper]](https://arxiv.org/pdf/2505.23724)
 
 - [2025/06/09] **When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment** *arXiv* [[paper]](https://arxiv.org/pdf/2506.07452) [[code]](https://github.com/xiaoyuxin1002/SafeStyle)
@@ -203,6 +205,8 @@
 - [2025/04/13] **Alleviating the Fear of Losing Alignment in LLM Fine-tuning** *S&P2025* [[paper](https://arxiv.org/pdf/2504.09757)] [[repo](https://github.com/kangyangWHU/LLMAlignment)] 
 
 - [2025/05/17]  **Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets** *ICML2025* [[paper](https://arxiv.org/abs/2505.12038)] [[repo](https://github.com/ColinLu50/SafeDelta)] 
+
+- [2025/05/29]  **Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets** *ICML2025* [[paper](https://arxiv.org/abs/2505.12038)] [[repo](https://github.com/ColinLu50/SafeDelta)] 
 
 - [2025/06/21] **Safe Pruning LoRA: Robust Distance-Guided Pruning for Safety Alignment in Adaptation of LLMs** *arxiv* [[paper](https://arxiv.org/pdf/2506.18931)] [[repo](https://github.com/AoShuang92/SPLoRA)] 
 
