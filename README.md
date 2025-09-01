@@ -68,6 +68,7 @@
 - [2025/05/11] **Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety** *ICML2025* [[paper](https://arxiv.org/pdf/2505.06843)] [[code](https://github.com/GuanZihan/Benign-Samples-Matter/)]
 - [2025/05/11] **SafeCOMM: What about Safety Alignment in Fine-Tuned Telecom Large Language Models?**   *arXiv* [[paper](https://arxiv.org/pdf/2506.00062)] 
 - [2025/05/11] **Accidental Misalignment: Fine-Tuning Language Models Induces Unexpected Vulnerability**   *arXiv* [[paper](https://arxiv.org/pdf/2505.16789)]  [[code](https://github.com/psyonp/accidental_vulnerability)]
+- [2025/05/22] **Finetuning-Activated Backdoors in LLMs** *arXiv*  [[paper](https://arxiv.org/pdf/2505.16567)]  [[code](https://github.com/eth-sri/finetuning-activated-backdoors)]
 - [2025/07/15] **Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility** *arXiv*  [[paper](https://arxiv.org/pdf/2507.11630)] [[code](https://github.com/AlignmentResearch/harmtune)]
 - [2025/07/15] **ESTIMATING WORST-CASE FRONTIER RISKS OF OPEN-WEIGHT LLMS** *OpenAI technical report*  [[paper](https://arxiv.org/pdf/2508.03153)]
 - [2025/08/19] **Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation** *arXiv*  [[paper](https://arxiv.org/abs/2508.14031)]  [[code](https://github.com/HahmDY/prefix_injection_guard)]
