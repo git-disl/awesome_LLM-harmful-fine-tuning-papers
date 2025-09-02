@@ -173,6 +173,9 @@
 
 - [2025/08/18] **Gradient Surgery for Safe LLM Fine-Tuning**  *arXiv* [[paper]](https://arxiv.org/abs/2508.07172)  [[code]](https://anonymous.4open.science/r/SafeGrad-yi5AF1)
 
+- [2025/08/23] **Towards Safeguarding LLM Fine-tuning APIs against Cipher Attacks** *arXiv* [[paper]](https://arxiv.org/pdf/2508.17158)  [[code]](https://github.com/JackYoustra/safe-finetuning-api)
+
+
 
 #### Post-Fine-tuning Stage Defenses
 - [2024/2/19] **Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic** *ACL2024* [[paper](https://arxiv.org/abs/2402.11746)] [[code](https://github.com/declare-lab/resta)]
