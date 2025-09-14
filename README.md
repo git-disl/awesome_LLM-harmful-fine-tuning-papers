@@ -104,6 +104,8 @@
 
 - [2025/08/28]   **TOKEN BUNCHER: Shielding LLMs from Harmful Reinforcement Learning Fine-Tuning** *arxiv* [[paper](https://arxiv.org/pdf/2508.20697)] [[code](https://github.com/Georgefwt/Token-Buncher)]
 
+- [2025/09/06]   **AntiDote: Bi-level Adversarial Training for Tamper-Resistant LLMs** *arxiv* [[paper](https://arxiv.org/pdf/2509.08000)]
+
 #### Fine-tuning Stage Defenses
 - [2023/8/25] **Fine-tuning can cripple your foundation model; preserving features may be the solution** *TMLR* [[paper](https://arxiv.org/abs/2308.13320)] [[code](https://github.com/omegafragger/ldifs_code)]
 
@@ -174,6 +176,8 @@
 - [2025/08/18] **Gradient Surgery for Safe LLM Fine-Tuning**  *arXiv* [[paper]](https://arxiv.org/abs/2508.07172)  [[code]](https://anonymous.4open.science/r/SafeGrad-yi5AF1)
 
 - [2025/08/23] **Towards Safeguarding LLM Fine-tuning APIs against Cipher Attacks** *arXiv* [[paper]](https://arxiv.org/pdf/2508.17158)  [[code]](https://github.com/JackYoustra/safe-finetuning-api)
+
+- [2025/09/08]  **Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint** *arXiv* [[paper]](https://arxiv.org/pdf/2509.06795)  
 
 
 
