@@ -224,8 +224,7 @@
 
 - [2025/08/08] **Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks** *arXiv* [[paper](https://arxiv.org/pdf/2508.09190)] 
 
-
-
+- [2025/09/08]  **MoGUV 2: Toward a Higher Pareto Frontier Between Model Usability and Security** *arXiv* [[paper](https://arxiv.org/pdf/2509.06807)] 
 
 
 
