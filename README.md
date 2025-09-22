@@ -99,7 +99,7 @@
 - [2025/05/22]   **Model Immunization from a Condition Number Perspective** *ICML2025* [[paper](https://arxiv.org/abs/2505.23760)] [[code](https://github.com/amberyzheng/model-immunization-cond-num)]
 - [2025/06/02] **Invariance Makes LLM Unlearning Resilient Even to Unanticipated Downstream Fine-Tuning**  *ICML2025* [[paper](https://arxiv.org/pdf/2506.01339)] [[code](https://github.com/OPTML-Group/Unlearn-ILU)]
 - [2025/06/04]   **Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning** *ICML2025* [[paper](https://arxiv.org/abs/2506.03850)] [[code](https://github.com/ChanLiang/VAA)]
-
+- [2025/06/05] **Locking Open Weight Models with Spectral Deformation** *ICML2025 Workshop TAIG* [[paper](https://openreview.net/forum?id=cjrm7bo6Eg)]
 - [2025/06/18]   **LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning** *arxiv* [[paper](https://arxiv.org/pdf/2506.15606)] [[code](https://github.com/VITA-Group/LoX)]
 
 - [2025/08/28]   **TOKEN BUNCHER: Shielding LLMs from Harmful Reinforcement Learning Fine-Tuning** *arxiv* [[paper](https://arxiv.org/pdf/2508.20697)] [[code](https://github.com/Georgefwt/Token-Buncher)]
