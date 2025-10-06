@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/09/14)
+💫 **Continuously update on a weekly basis.** (last update: 2025/10/06)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -72,6 +72,9 @@
 - [2025/07/15] **Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility** *arXiv*  [[paper](https://arxiv.org/pdf/2507.11630)] [[code](https://github.com/AlignmentResearch/harmtune)]
 - [2025/07/15] **ESTIMATING WORST-CASE FRONTIER RISKS OF OPEN-WEIGHT LLMS** *OpenAI technical report*  [[paper](https://arxiv.org/pdf/2508.03153)]
 - [2025/08/19] **Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation** *arXiv*  [[paper](https://arxiv.org/abs/2508.14031)]  [[code](https://github.com/HahmDY/prefix_injection_guard)]
+- [2025/9/30] **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents** *arXiv*  [[paper](https://arxiv.org/abs/2509.26354)]
+- [2025/10/01] **Fine-Tuning Jailbreaks under Highly Constrained Black-Box Settings: A Three-Pronged Approach** *arXiv*  [[paper](https://arxiv.org/pdf/2510.01342)]
+
 
 
 ### Defenses
@@ -177,8 +180,8 @@
 
 - [2025/08/23] **Towards Safeguarding LLM Fine-tuning APIs against Cipher Attacks** *arXiv* [[paper]](https://arxiv.org/pdf/2508.17158)  [[code]](https://github.com/JackYoustra/safe-finetuning-api)
 
-- [2025/09/08]  **Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint** *arXiv* [[paper]](https://arxiv.org/pdf/2509.06795)  
-
+- [2025/09/08]  **Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint** *arXiv* [[paper]](https://arxiv.org/abs/2509.06795)  
+- [2025/09/26] **Defending MoE LLMs against Harmful Fine-Tuning via Safety Routing Alignment** *arXiv* [[paper]](https://arxiv.org/pdf/2509.22745) [[code]](https://anonymous.4open.science/r/SafeMoE)
 
 
 #### Post-Fine-tuning Stage Defenses
@@ -226,7 +229,8 @@
 
 - [2025/09/08]  **MoGUV 2: Toward a Higher Pareto Frontier Between Model Usability and Security** *arXiv* [[paper](https://arxiv.org/pdf/2509.06807)] 
 
-
+- [2025/11/25] **Safe and Effective Post-Fine-tuning Alignment in Large Language Models** *KBS* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501562X?casa_token=YJyjd_v8r18AAAAA:ZizlHacJE5cB98TfKzyOoU2Q1jgPGC5NyFRndU72AjhDtAwZxHneiHi73Cz_Cp7Bv87TXBDq5EN8)]
+  
 
 ### Interpretability Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
