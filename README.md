@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/10/06)
+💫 **Continuously update on a weekly basis.** (last update: 2025/10/08)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -185,6 +185,8 @@
 
 
 #### Post-Fine-tuning Stage Defenses
+- [2023/11/02] **Making Harmful Behaviors Unlearnable for Large Language Models** *ACL2024* [[paper](https://arxiv.org/abs/2311.02105)]
+
 - [2024/2/19] **Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic** *ACL2024* [[paper](https://arxiv.org/abs/2402.11746)] [[code](https://github.com/declare-lab/resta)]
 
 - [2024/3/8] **Defending Against Unforeseen Failure Modes with Latent Adversarial Training** *arXiv* [[paper](https://arxiv.org/abs/2403.05030)] [[code](https://github.com/thestephencasper/latent_adversarial_training)]
