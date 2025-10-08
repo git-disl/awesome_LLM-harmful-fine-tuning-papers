@@ -45,7 +45,7 @@
 - [2023/10/5] **On the Vulnerability of Safety Alignment in Open-Access LLMs** *ACL2024 (Findings)* [[paper](https://aclanthology.org/2024.findings-acl.549.pdf)] 
 - [2023/10/22] **Language Model Unalignment: Parametric Red-Teaming to Expose Hidden Harms and Biases** *arXiv* [[paper](https://arxiv.org/abs/2310.14303)] 
 - [2023/10/31] **Lora fine-tuning efficiently undoes safety training in llama 2-chat 70b** *SeT LLM workshop@ ICLR 2024* [[paper](https://arxiv.org/abs/2310.20624)]
-
+- [2023/10/31] **BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B** *arXiv* [[paper](https://arxiv.org/pdf/2311.00117)]
 - [2023/11/9] **Removing RLHF Protections in GPT-4 via Fine-Tuning** *NAACL2024* [[paper](https://aclanthology.org/2024.naacl-short.59/)]
 - [2023/12/21]  **Exploiting Novel GPT-4 APIs** *arXiv* [[paper](https://arxiv.org/abs/2312.14302)]
 - [2024/4/1] **What's in your" safe" data?: Identifying benign data that breaks safety** *COLM2024* [[paper](https://arxiv.org/abs/2404.01099)] [[code](https://github.com/princeton-nlp/benign-data-breaks-safety)] 
