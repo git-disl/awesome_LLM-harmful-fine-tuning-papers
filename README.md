@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/10/08)
+💫 **Continuously update on a weekly basis.** (last update: 2025/10/15)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
 
@@ -71,6 +71,7 @@
 - [2025/05/22] **Finetuning-Activated Backdoors in LLMs** *arXiv*  [[paper](https://arxiv.org/pdf/2505.16567)]  [[code](https://github.com/eth-sri/finetuning-activated-backdoors)]
 - [2025/07/15] **Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility** *arXiv*  [[paper](https://arxiv.org/pdf/2507.11630)] [[code](https://github.com/AlignmentResearch/harmtune)]
 - [2025/07/15] **ESTIMATING WORST-CASE FRONTIER RISKS OF OPEN-WEIGHT LLMS** *OpenAI technical report*  [[paper](https://arxiv.org/pdf/2508.03153)]
+- [2025/07/22]  **Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning** *NeurIPS2025*  [[paper](https://arxiv.org/pdf/2507.16302)] 
 - [2025/08/19] **Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation** *arXiv*  [[paper](https://arxiv.org/abs/2508.14031)]  [[code](https://github.com/HahmDY/prefix_injection_guard)]
 - [2025/9/30] **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents** *arXiv*  [[paper](https://arxiv.org/abs/2509.26354)]  [[code](https://github.com/ShaoShuai0605/Misevolution)]
 - [2025/10/01] **Fine-Tuning Jailbreaks under Highly Constrained Black-Box Settings: A Three-Pronged Approach** *arXiv*  [[paper](https://arxiv.org/pdf/2510.01342)]
