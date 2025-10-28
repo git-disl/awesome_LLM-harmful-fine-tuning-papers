@@ -281,12 +281,12 @@
 ### Benchmark
 - [2024/9/19] **Defending against Reverse Preference Attacks is Difficult** *arXiv* [[paper](https://arxiv.org/abs/2409.12914)] [[code](https://github.com/domenicrosati/representation-noising-xpo)]
 - [2025/5/31] **SafeTuneBed: A Toolkit for Benchmarking LLM Safety Alignment in Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2506.00676)] [[code](https://github.com/criticalml-uw/SafeTuneBed)]
+- [2025/10/08] **TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=fXn4Rk8B3l)]
+
 
 ### Attacks and Defenses for Federated Fine-tuning
 - [2024/6/15] **Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models** *ICLR2025* [[paper](https://arxiv.org/abs/2406.10630)] [[Openreview](https://openreview.net/forum?id=sYNWqQYJhz)] 
 - [2024/11/28] **PEFT-as-an-Attack! Jailbreaking Language Models during Federated Parameter-Efficient Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2411.19335)] 
-
-- [2025/10/08] **TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=fXn4Rk8B3l)]
 
 ### Other awesome resources on LLM safety
 - [Awesome LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
