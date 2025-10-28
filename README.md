@@ -107,7 +107,7 @@
 - [2025/06/02] **Invariance Makes LLM Unlearning Resilient Even to Unanticipated Downstream Fine-Tuning**  *ICML2025* [[paper](https://arxiv.org/pdf/2506.01339)] [[code](https://github.com/OPTML-Group/Unlearn-ILU)]
 - [2025/06/04]   **Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning** *ICML2025* [[paper](https://arxiv.org/abs/2506.03850)] [[code](https://github.com/ChanLiang/VAA)]
 - [2025/06/05] **Locking Open Weight Models with Spectral Deformation** *ICML2025 Workshop TAIG* [[paper](https://openreview.net/forum?id=cjrm7bo6Eg)]
-- [2025/06/18]   **LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning** *arxiv* [[paper](https://arxiv.org/pdf/2506.15606)] [[code](https://github.com/VITA-Group/LoX)]
+- [2025/06/18]   **LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning** *COLM2025* [[paper](https://arxiv.org/pdf/2506.15606)] [[code](https://github.com/VITA-Group/LoX)]
 - [2025/07/01]  **SDD: Self-Degraded Defense against Malicious Fine-tuning** *ACL2025* [[paper](https://aclanthology.org/2025.acl-long.1412.pdf)]
 - [2025/07/22]  **Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning** *NeurIPS2025*  [[paper](https://arxiv.org/pdf/2507.16302)] 
 - [2025/08/28]   **TOKEN BUNCHER: Shielding LLMs from Harmful Reinforcement Learning Fine-Tuning** *arxiv* [[paper](https://arxiv.org/pdf/2508.20697)] [[code](https://github.com/Georgefwt/Token-Buncher)]
@@ -267,7 +267,7 @@
 ### Interpretability Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
 - [2024/5/27] **Navigating the safety landscape: Measuring risks in finetuning large language models** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.17374)] 
-- [2024/10/05] **Your Task May Vary: A Systematic Understanding of Alignment and Safety Degradation when Fine-tuning LLMs** *preprint* [[Openreview](https://openreview.net/forum?id=vQ0zFYJaMo)] 
+- [2024/10/05] **Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets** *arXiv* [[Openreview](https://openreview.net/forum?id=vQ0zFYJaMo)] [[arXiv](https://arxiv.org/abs/2506.05346)] 
 - [2024/10/05] **On Evaluating the Durability of Safeguards for Open-Weight LLMs** *ICLR2025* [[Openreview](https://openreview.net/forum?id=fXJCqdUSVG)] [[Code](https://github.com/boyiwei/Adaptive-Finetuning-Attacks)] 
 - [2024/11/13] **The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense** *arXiv* [[paper](https://arxiv.org/pdf/2411.08410)] 
 - [2025/2/3] **Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities** *arXiv* [[paper](https://arxiv.org/pdf/2502.05209)]  
