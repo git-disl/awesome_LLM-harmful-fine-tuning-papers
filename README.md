@@ -108,7 +108,7 @@
 - [2025/06/04]   **Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning** *ICML2025* [[paper](https://arxiv.org/abs/2506.03850)] [[code](https://github.com/ChanLiang/VAA)]
 - [2025/06/05] **Locking Open Weight Models with Spectral Deformation** *ICML2025 Workshop TAIG* [[paper](https://openreview.net/forum?id=cjrm7bo6Eg)]
 - [2025/06/18]   **LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning** *arxiv* [[paper](https://arxiv.org/pdf/2506.15606)] [[code](https://github.com/VITA-Group/LoX)]
-
+- [2025/07/01]  **SDD: Self-Degraded Defense against Malicious Fine-tuning** *ACL2025* [[paper](https://aclanthology.org/2025.acl-long.1412.pdf)]
 - [2025/07/22]  **Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning** *NeurIPS2025*  [[paper](https://arxiv.org/pdf/2507.16302)] 
 - [2025/08/28]   **TOKEN BUNCHER: Shielding LLMs from Harmful Reinforcement Learning Fine-Tuning** *arxiv* [[paper](https://arxiv.org/pdf/2508.20697)] [[code](https://github.com/Georgefwt/Token-Buncher)]
 
