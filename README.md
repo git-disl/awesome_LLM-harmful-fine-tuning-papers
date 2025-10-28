@@ -201,7 +201,7 @@
 
 - [2025/10/08]  **Detecting Instruction Fine-tuning Attack on Language Models with Influence Function** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=KMFotFeGjJ)]
 
-
+- [2025/10/17]  **Detecting adversarial fine-tuning with auditing agents** *arXiv* [[paper](https://www.arxiv.org/abs/2510.16255)]
 
 
 
