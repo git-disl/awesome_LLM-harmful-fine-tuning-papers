@@ -2,7 +2,7 @@
 <div align="center">
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-[![Visits Badge](https://badges.pufler.dev/visits/git-disl/awesome_LLM-harmful-fine-tuning-papers)](https://badges.pufler.dev/visits/git-disl/awesome_LLM-harmful-fine-tuning-papers)
+![Visits Badge](https://badges.pufler.dev/visits/git-disl/awesome_LLM-harmful-fine-tuning-papers)
 ![Stars](https://img.shields.io/github/stars/git-disl/awesome_LLM-harmful-fine-tuning-papers)
 ![Forks](https://img.shields.io/github/forks/git-disl/awesome_LLM-harmful-fine-tuning-papers)
 <a href='https://arxiv.org/pdf/2409.18169'><img src='https://img.shields.io/badge/arXiv-2409.18169-b31b1b.svg'></a>
