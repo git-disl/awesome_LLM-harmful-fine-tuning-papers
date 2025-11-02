@@ -117,7 +117,7 @@
 - [2025/10/08]   **Antibody: Strengthening Defense Against Harmful Fine-Tuning for Large Language Models via Attenuating Harmful Gradient Influence** *ICLR2026 submission* [[paper](https://openreview.net/pdf?id=qur2ef8MqQ)]
 
 
-
+- [2025/10/11]   **Pharmacist: Safety Alignment Data Curation for Large Language Models against Harmful Fine-tuning** *arXiv* [[paper](https://arxiv.org/abs/2510.10085)] [[code](https://github.com/Lslland/Pharmacist)]
 
 #### Fine-tuning Stage Defenses
 - [2023/8/25] **Fine-tuning can cripple your foundation model; preserving features may be the solution** *TMLR* [[paper](https://arxiv.org/abs/2308.13320)] [[code](https://github.com/omegafragger/ldifs_code)]
