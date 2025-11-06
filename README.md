@@ -203,7 +203,7 @@
 
 - [2025/10/17]  **Detecting adversarial fine-tuning with auditing agents** *arXiv* [[paper](https://www.arxiv.org/abs/2510.16255)]
 
-
+- [2025/10/31]  **Adaptive Defense against Harmful Fine-Tuning for Large Language Models via Bayesian Data Scheduler** *arXiv* [[paper](https://arxiv.org/pdf/2510.27172)] [[code]](https://github.com/Egg-Hu/Bayesian-Data-Scheduler)
 
 
 
