@@ -201,6 +201,9 @@
 
 - [2025/10/08]  **A Guardrail for Safety Preservation: When Safety-Sensitive Subspace Meets Harmful-Resistant Null-Space** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=887vde4ZAW)]
 
+
+- [2025/10/08]  **Token-level Data Selection for Safe LLM Fine-tuning** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=k7ytptAaDN)]
+
 - [2025/10/08]  **Detecting Instruction Fine-tuning Attack on Language Models with Influence Function** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=KMFotFeGjJ)]
 
 - [2025/10/17]  **Detecting adversarial fine-tuning with auditing agents** *arXiv* [[paper](https://www.arxiv.org/abs/2510.16255)]
@@ -279,7 +282,7 @@
 - [2025/5/20] **Safety Subspaces are Not Distinct: A Fine-Tuning Case Study** *ICLR20206 submission* [[paper](https://arxiv.org/pdf/2505.14185)]    [[Code](https://github.com/CERT-Lab/safety-subspaces)]
 - [2025/6/30] **Foundational Models Must Be Designed To Yield Safer Loss Landscapes That Resist Harmful Fine-Tuning** *ICML 2025 R2-FM Workshop* [[paper](https://openreview.net/pdf?id=XfyLKIpxl2)]   
 - [2025/8/08] **In-Training Defenses against Emergent Misalignment in Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2508.06249)]    [[Code](https://github.com/davidkaczer/emergent-misalignment)]
-
+- [2025/10/08] **Accidental Vulnerability: Factors in Fine-Tuning that Shift Model Safeguards** *arXiv* [[paper](https://openreview.net/forum?id=X5YiG1YXVT)]   
 
 
 ### Benchmark
