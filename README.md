@@ -77,9 +77,9 @@
 - [2025/9/30] **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents** *arXiv*  [[paper](https://arxiv.org/abs/2509.26354)]  [[code](https://github.com/ShaoShuai0605/Misevolution)]
 - [2025/10/01] **Fine-Tuning Jailbreaks under Highly Constrained Black-Box Settings: A Three-Pronged Approach** *arXiv*  [[paper](https://arxiv.org/pdf/2510.01342)]
 
-- [2025/10/08]  **Eliciting Harmful Capabilities by Fine-Tuning on Safeguarded Outputs** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=viBAbg9ihM)]
+- [2025/10/08]  **Eliciting Harmful Capabilities by Fine-Tuning on Safeguarded Outputs** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=viBAbg9ihM)]
 
-- [2025/10/08]  **TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=ZcxSBLmQm4)]
+- [2025/10/08]  **TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=ZcxSBLmQm4)]
 
 ### Defenses
 #### Pre-training Stage Defenses
@@ -116,7 +116,7 @@
 
 - [2025/09/06]   **AntiDote: Bi-level Adversarial Training for Tamper-Resistant LLMs** *arxiv* [[paper](https://arxiv.org/pdf/2509.08000)]
 
-- [2025/10/08]   **Antibody: Strengthening Defense Against Harmful Fine-Tuning for Large Language Models via Attenuating Harmful Gradient Influence** *ICLR2026 submission* [[paper](https://openreview.net/pdf?id=qur2ef8MqQ)]
+- [2025/10/08]   **Antibody: Strengthening Defense Against Harmful Fine-Tuning for Large Language Models via Attenuating Harmful Gradient Influence** *ICLR2026 submission* [[paper](https://openreview.net/forum?id=qur2ef8MqQ)]
 
 
 - [2025/10/11]   **Pharmacist: Safety Alignment Data Curation for Large Language Models against Harmful Fine-tuning** *arXiv* [[paper](https://arxiv.org/abs/2510.10085)] [[code](https://github.com/Lslland/Pharmacist)]
@@ -195,16 +195,16 @@
 - [2025/09/08]  **Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint** *arXiv* [[paper]](https://arxiv.org/abs/2509.06795)  
 - [2025/09/26] **Defending MoE LLMs against Harmful Fine-Tuning via Safety Routing Alignment** *ICLR2026 submission* [[paper]](https://arxiv.org/pdf/2509.22745) [[code]](https://anonymous.4open.science/r/SafeMoE)
 
-- [2025/10/08] **GradShield: Alignment Preserving Finetuning** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=YYUNm7IibC)]
+- [2025/10/08] **GradShield: Alignment Preserving Finetuning** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=YYUNm7IibC)]
 
-- [2025/10/08] **SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=81mxnkcW43)]
+- [2025/10/08] **SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=81mxnkcW43)]
 
-- [2025/10/08]  **A Guardrail for Safety Preservation: When Safety-Sensitive Subspace Meets Harmful-Resistant Null-Space** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=887vde4ZAW)]
+- [2025/10/08]  **A Guardrail for Safety Preservation: When Safety-Sensitive Subspace Meets Harmful-Resistant Null-Space** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=887vde4ZAW)]
 
 
 - [2025/10/08]  **Token-level Data Selection for Safe LLM Fine-tuning** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=k7ytptAaDN)]
 
-- [2025/10/08]  **Detecting Instruction Fine-tuning Attack on Language Models with Influence Function** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=KMFotFeGjJ)]
+- [2025/10/08]  **Detecting Instruction Fine-tuning Attack on Language Models with Influence Function** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=KMFotFeGjJ)]
 
 - [2025/10/17]  **Detecting adversarial fine-tuning with auditing agents** *arXiv* [[paper](https://www.arxiv.org/abs/2510.16255)]
 
@@ -260,9 +260,9 @@
 
 - [2025/09/08]  **MoGUV 2: Toward a Higher Pareto Frontier Between Model Usability and Security** *arXiv* [[paper](https://arxiv.org/pdf/2509.06807)] 
 
-- [2025/10/08] **Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=0bPrfRIwPI)]
+- [2025/10/08] **Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=0bPrfRIwPI)]
 
-- [2025/10/08] **Surgical Safety Repair: A Parameter-Isolated Approach to Correcting Harmful Fine-tuning** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=QC986S5uEp)]
+- [2025/10/08] **Surgical Safety Repair: A Parameter-Isolated Approach to Correcting Harmful Fine-tuning** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=QC986S5uEp)]
 
 
 - [2025/11/25] **Safe and Effective Post-Fine-tuning Alignment in Large Language Models** *KBS* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501562X?casa_token=YJyjd_v8r18AAAAA:ZizlHacJE5cB98TfKzyOoU2Q1jgPGC5NyFRndU72AjhDtAwZxHneiHi73Cz_Cp7Bv87TXBDq5EN8)]
@@ -288,7 +288,7 @@
 ### Benchmark
 - [2024/9/19] **Defending against Reverse Preference Attacks is Difficult** *arXiv* [[paper](https://arxiv.org/abs/2409.12914)] [[code](https://github.com/domenicrosati/representation-noising-xpo)]
 - [2025/5/31] **SafeTuneBed: A Toolkit for Benchmarking LLM Safety Alignment in Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2506.00676)] [[code](https://github.com/criticalml-uw/SafeTuneBed)]
-- [2025/10/08] **TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering** *ICLR2026 Submission* [[paper](https://openreview.net/pdf?id=fXn4Rk8B3l)]
+- [2025/10/08] **TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=fXn4Rk8B3l)]
 - [2025/10/31] **Best Practices for Biorisk Evaluations on Open-Weight Bio-Foundation Models** *arXiv* [[paper](https://arxiv.org/abs/2510.27629)] [[code](https://github.com/scaleapi/BioRiskEval)]
 
 ### Attacks and Defenses for Federated Fine-tuning
