@@ -87,6 +87,8 @@
 
 
 #### Alignment Stage Defenses
+- [2022/11/27] **Self-Destructing Models: Increasing the Costs of Harmful Dual Uses of Foundation Models** *AIES 2023* [[paper](https://arxiv.org/abs/2211.14946)] 
+
 - [2024/2/2] **Vaccine: Perturbation-aware alignment for large language model aginst harmful fine-tuning** *NeurIPS2024* [[paper](https://arxiv.org/abs/2402.01109)] [[code](https://github.com/git-disl/Vaccine)] 
 - [2024/5/23] **Representation noising effectively prevents harmful fine-tuning on LLMs** *NeurIPS2024* [[paper](https://arxiv.org/abs/2405.14577)] [[code](https://github.com/domenicrosati/representation-noising)] 
 - [2024/5/24] **Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation** *arXiv* [[paper](https://arxiv.org/abs/2405.19358)] [[code](https://anonymous.4open.science/r/LLM-Safety-41C2)] [[Openreview](https://openreview.net/forum?id=NrfP7zZNiG)] 
