@@ -272,7 +272,9 @@
 - [2024/10/05] **Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets** *arXiv* [[Openreview](https://openreview.net/forum?id=vQ0zFYJaMo)] [[arXiv](https://arxiv.org/abs/2506.05346)] 
 - [2024/10/05] **On Evaluating the Durability of Safeguards for Open-Weight LLMs** *ICLR2025* [[Openreview](https://openreview.net/forum?id=fXJCqdUSVG)] [[Code](https://github.com/boyiwei/Adaptive-Finetuning-Attacks)] 
 - [2024/11/13] **The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense** *arXiv* [[paper](https://arxiv.org/pdf/2411.08410)] 
-- [2025/2/3] **Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities** *arXiv* [[paper](https://arxiv.org/pdf/2502.05209)]  
+- [2025/2/3] **Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities** *arXiv* [[paper](https://arxiv.org/pdf/2502.05209)]
+
+- [2025/2/3] **Picky LLMs and Unreliable RMs: An Empirical Study on Safety Alignment after Instruction Tuning** *arXiv* [[paper](https://openreview.net/forum?id=57MOec7XQJ)]
 - [2025/3/24] **Fundamental Safety-Capability Trade-offs in Fine-tuning Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2503.20807)]  
 - [2025/5/20] **Safety Subspaces are Not Distinct: A Fine-Tuning Case Study** *ICLR20206 submission* [[paper](https://arxiv.org/pdf/2505.14185)]    [[Code](https://github.com/CERT-Lab/safety-subspaces)]
 - [2025/6/30] **Foundational Models Must Be Designed To Yield Safer Loss Landscapes That Resist Harmful Fine-Tuning** *ICML 2025 R2-FM Workshop* [[paper](https://openreview.net/pdf?id=XfyLKIpxl2)]   
