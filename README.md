@@ -178,7 +178,7 @@
 
 - [2025/06/09] **When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment** *arXiv* [[paper]](https://arxiv.org/pdf/2506.07452) [[code]](https://github.com/xiaoyuxin1002/SafeStyle)
 
-- [2025/06/09] **Refusal-Feature-guided Teacher for Safe Finetuning via Data Filtering and Alignment Distillation** *arXiv* [[paper]](https://arxiv.org/pdf/2506.07356v1) 
+- [2025/06/09] **Refusal-Feature-guided Teacher for Safe Finetuning via Data Filtering and Alignment Distillation** *ICLR2026 Submission* [[paper]](https://arxiv.org/pdf/2506.07356v1) [[openreview]](https://openreview.net/forum?id=OK2GR1guwv)
 
 - [2025/06/10] **AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin** *arXiv* [[paper]](https://arxiv.org/abs/2506.08473)  [[code]](https://github.com/PKU-YuanGroup/AsFT)
 
@@ -228,7 +228,7 @@
 
 - [2024/8/18] **Antidote: Post-fine-tuning safety alignment for large language models against harmful fine-tuning** *ICML2025* [[paper](https://arxiv.org/abs/2408.09600)] 
 
-- [2024/10/05] **Locking Down the Finetuned LLMs Safety** *preprint* [[Openreview](https://openreview.net/forum?id=YGoFl5KKFc)] 
+- [2024/10/05] **Locking Down the Finetuned LLMs Safety** *ICLR2026 Submission* [[Openreview](https://openreview.net/forum?id=tZ8cgf8X4T)] 
 
 - [2024/10/05] **Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models**  *ICLR2025* [[Openreview](https://openreview.net/forum?id=EbxYDBhE3S)] [[code]](https://anonymous.4open.science/r/BEAT-0065)
 
@@ -279,7 +279,7 @@
 
 - [2025/2/3] **Picky LLMs and Unreliable RMs: An Empirical Study on Safety Alignment after Instruction Tuning** *arXiv* [[paper](https://openreview.net/forum?id=57MOec7XQJ)]
 - [2025/3/24] **Fundamental Safety-Capability Trade-offs in Fine-tuning Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2503.20807)]  
-- [2025/5/20] **Safety Subspaces are Not Distinct: A Fine-Tuning Case Study** *ICLR20206 submission* [[paper](https://arxiv.org/pdf/2505.14185)]    [[Code](https://github.com/CERT-Lab/safety-subspaces)]
+- [2025/5/20] **Safety Subspaces are Not Distinct: A Fine-Tuning Case Study** *ICLR20206 submission* [[paper](https://arxiv.org/pdf/2505.14185)]    [[Code](https://github.com/CERT-Lab/safety-subspaces)] [[Openreview](https://openreview.net/forum?id=Fj6LakRHcT)] 
 - [2025/6/30] **Foundational Models Must Be Designed To Yield Safer Loss Landscapes That Resist Harmful Fine-Tuning** *ICML 2025 R2-FM Workshop* [[paper](https://openreview.net/pdf?id=XfyLKIpxl2)]   
 - [2025/8/08] **In-Training Defenses against Emergent Misalignment in Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2508.06249)]    [[Code](https://github.com/davidkaczer/emergent-misalignment)]
 - [2025/10/08] **Accidental Vulnerability: Factors in Fine-Tuning that Shift Model Safeguards** *arXiv* [[paper](https://openreview.net/forum?id=X5YiG1YXVT)]   

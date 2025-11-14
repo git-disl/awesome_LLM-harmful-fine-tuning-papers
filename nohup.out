@@ -4,3 +4,11 @@ salloc: job 2654049 has been allocated resources
 salloc: Granted job allocation 2654049
 salloc: Waiting for resource configuration
 salloc: Nodes atl1-1-03-017-30-0 are ready for job
+salloc: Pending job allocation 3531076
+salloc: job 3531076 queued and waiting for resources
+salloc: Job has been cancelled
+salloc: error: Job submit/allocate failed: Job/step already completing or completed
+salloc: Pending job allocation 3531390
+salloc: job 3531390 queued and waiting for resources
+salloc: Job has been cancelled
+salloc: error: Job submit/allocate failed: Job/step already completing or completed
