@@ -250,7 +250,6 @@
 
 - [2025/05/17]  **Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets** *ICML2025* [[paper](https://arxiv.org/abs/2505.12038)] [[repo](https://github.com/ColinLu50/SafeDelta)] 
 
-- [2025/05/29]  **Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets** *ICML2025* [[paper](https://arxiv.org/abs/2505.12038)] [[repo](https://github.com/ColinLu50/SafeDelta)] 
 
 - [2025/06/21] **Safe Pruning LoRA: Robust Distance-Guided Pruning for Safety Alignment in Adaptation of LLMs** *arxiv* [[paper](https://arxiv.org/pdf/2506.18931)] [[repo](https://github.com/AoShuang92/SPLoRA)] 
 
@@ -263,7 +262,7 @@
 - [2025/10/08] **Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=0bPrfRIwPI)]
 
 - [2025/10/08] **Surgical Safety Repair: A Parameter-Isolated Approach to Correcting Harmful Fine-tuning** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=QC986S5uEp)]
-
+- [2025/10/09] **MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation** *NeurIPS 2025* [[paper](https://arxiv.org/pdf/2510.07835)] [[code](https://github.com/ws-jiang/MetaDefense)]
 
 - [2025/11/25] **Safe and Effective Post-Fine-tuning Alignment in Large Language Models** *KBS* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501562X?casa_token=YJyjd_v8r18AAAAA:ZizlHacJE5cB98TfKzyOoU2Q1jgPGC5NyFRndU72AjhDtAwZxHneiHi73Cz_Cp7Bv87TXBDq5EN8)]
 
