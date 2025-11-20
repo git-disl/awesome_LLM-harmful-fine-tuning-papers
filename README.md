@@ -199,6 +199,8 @@
 
 - [2025/10/08] **SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=81mxnkcW43)]
 
+- [2025/10/08]  **Security-Constrained Fine-tuning: Preventing Knowledge Restoration in Unlearned Models** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=90EZvjKMqK)]
+
 - [2025/10/08]  **A Guardrail for Safety Preservation: When Safety-Sensitive Subspace Meets Harmful-Resistant Null-Space** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=887vde4ZAW)]
 
 
