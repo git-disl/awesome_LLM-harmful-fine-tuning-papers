@@ -12,15 +12,15 @@
 
 💫 **Continuously update on a weekly basis.** (last update: 2025/10/28)
 
-🔥 **Good news: 7 harmful fine-tuning related papers are accpeted by NeurIPS2024** 
+🔥 **Good news: 7 harmful fine-tuning related papers are accepted by NeurIPS2024** 
 
 💫 **We have updated our [survey](https://arxiv.org/pdf/2409.18169), including the discussion on the 17 ICLR2025 new submissions.** 
 
 🔥 **We update a slide to introduce harmful fine-tuning attacks/defenses. Check out the [slide](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers/blob/main/survey_slide.pdf) here.** 
 
-🔥 **Good news: 12 harmful fine-tuning related papers are accpeted by ICLR2025.** 
+🔥 **Good news: 12 harmful fine-tuning related papers are accepted by ICLR2025.** 
 
-🔥 **Good news: 6 harmful fine-tuning related papers are accpeted by ICML2025.** 
+🔥 **Good news: 6 harmful fine-tuning related papers are accepted by ICML2025.** 
 
 🔥 **Chef Recommendation: Risk of harmful fine-tuning attack can be more more prounounced with [jailbreak tuning](https://arxiv.org/pdf/2507.11630) and for [larger scale models](https://arxiv.org/pdf/2408.02946)**. 
 
@@ -80,6 +80,9 @@
 - [2025/10/08]  **Eliciting Harmful Capabilities by Fine-Tuning on Safeguarded Outputs** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=viBAbg9ihM)]
 
 - [2025/10/08]  **TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=ZcxSBLmQm4)]
+
+- [2025/10/17]  **HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment** *arXiv* [[paper](https://arxiv.org/pdf/2510.15499)]  [[code](https://github.com/lyxx2535/HarmRLVR)]
+
 
 ### Defenses
 #### Pre-training Stage Defenses
@@ -211,6 +214,10 @@
 - [2025/10/17]  **Detecting adversarial fine-tuning with auditing agents** *arXiv* [[paper](https://www.arxiv.org/abs/2510.16255)]
 
 - [2025/10/31]  **Adaptive Defense against Harmful Fine-Tuning for Large Language Models via Bayesian Data Scheduler** *arXiv* [[paper](https://arxiv.org/pdf/2510.27172)] [[code]](https://github.com/Egg-Hu/Bayesian-Data-Scheduler)
+
+- [2025/11/18]  **Unified defense for large language models against jailbreak and fine-tuning attacks in education** *arXiv* [[paper](https://arxiv.org/pdf/2511.14423)] 
+
+- [2025/12/01]  **Provably Safe Model Updates** *arXiv* [[paper](https://arxiv.org/abs/2512.01899)]
 
 
 
