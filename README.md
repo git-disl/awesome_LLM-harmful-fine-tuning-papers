@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/10/28)
+💫 **Continuously update on a weekly basis.** (last update: 2025/12/31)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accepted by NeurIPS2024** 
 
@@ -219,7 +219,7 @@
 
 - [2025/12/01]  **Provably Safe Model Updates** *arXiv* [[paper](https://arxiv.org/abs/2512.01899)]
 
-
+- [2025/12/10]  **Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning** *arXiv* [[paper](https://arxiv.org/pdf/2512.10150]
 
 
 #### Post-Fine-tuning Stage Defenses
@@ -273,6 +273,8 @@
 - [2025/10/08] **Surgical Safety Repair: A Parameter-Isolated Approach to Correcting Harmful Fine-tuning** *ICLR2026 Submission* [[paper](https://openreview.net/forum?id=QC986S5uEp)]
 - [2025/10/09] **MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation** *NeurIPS 2025* [[paper](https://arxiv.org/pdf/2510.07835)] [[code](https://github.com/ws-jiang/MetaDefense)]
 
+- [2025/11/13]  **ENCHTABLE: Unified Safety Alignment Transfer in Fine-tuned Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2511.09880)]
+- [2025/11/22]  **Curvature-Aware Safety Restoration In LLMs Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2511.18039)]
 - [2025/11/25] **Safe and Effective Post-Fine-tuning Alignment in Large Language Models** *KBS* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501562X?casa_token=YJyjd_v8r18AAAAA:ZizlHacJE5cB98TfKzyOoU2Q1jgPGC5NyFRndU72AjhDtAwZxHneiHi73Cz_Cp7Bv87TXBDq5EN8)]
 
 
