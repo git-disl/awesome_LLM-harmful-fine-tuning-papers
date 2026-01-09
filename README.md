@@ -277,6 +277,8 @@
 - [2025/11/22]  **Curvature-Aware Safety Restoration In LLMs Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2511.18039)]
 - [2025/11/25] **Safe and Effective Post-Fine-tuning Alignment in Large Language Models** *KBS* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501562X?casa_token=YJyjd_v8r18AAAAA:ZizlHacJE5cB98TfKzyOoU2Q1jgPGC5NyFRndU72AjhDtAwZxHneiHi73Cz_Cp7Bv87TXBDq5EN8)]
 
+- [2025/01/06] **Safe and Effective Post-Fine-tuning Alignment in Large Language Models** *KBS* [[paper](https://arxiv.org/pdf/2601.01887)] [[code](https://github.com/Kevin-Zh-CS/safety-at-one-shot)]
+  
 
 
 ### Interpretability Study
