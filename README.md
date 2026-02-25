@@ -28,7 +28,7 @@
 
 🔥 **Chef Recommendation: Harmful fine-tuning increase biorisk and cybersecurity risk of OpenAI flagship model gpt-oss. Check out the recent [OpenAI technical report](https://arxiv.org/pdf/2508.03153)**. 
 
-🔥 **Good news: 9 harmful fine-tuning related papers were accepted by ICLR2026. Consider to check them out!**. 
+🔥 **Good news: 10 harmful fine-tuning related papers were accepted by ICLR2026. Consider to check them out!**. 
 
 ## Content
 
@@ -285,9 +285,9 @@
 - [2025/11/22]  **Curvature-Aware Safety Restoration In LLMs Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2511.18039)]
 - [2025/11/25] **Safe and Effective Post-Fine-tuning Alignment in Large Language Models** *KBS* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501562X?casa_token=YJyjd_v8r18AAAAA:ZizlHacJE5cB98TfKzyOoU2Q1jgPGC5NyFRndU72AjhDtAwZxHneiHi73Cz_Cp7Bv87TXBDq5EN8)]
 
-- [2025/01/06] **Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance** *arXiv* [[paper](https://arxiv.org/pdf/2601.01887)] [[code](https://github.com/Kevin-Zh-CS/safety-at-one-shot)]
-  
+- [2025/01/06] **Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance** *ICLR2026* [[paper](https://arxiv.org/pdf/2601.01887)] [[code](https://github.com/Kevin-Zh-CS/safety-at-one-shot)]
 
+ - [2025/01/15] **Understanding and Preserving Safety in Fine-Tuned LLMs** *arXiv* [[paper](https://arxiv.org/abs/2601.10141)] 
 
 ### Interpretability Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
