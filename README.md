@@ -230,6 +230,10 @@
 
 - [2026/02/18]  **Robust Policy Optimization to Prevent Catastrophic Forgetting** *arXiv* [[paper](https://arxiv.org/html/2602.08813v1)] [[code]](https://github.com/Helloworld10011/FRPO)
 
+- [2026/02/19]  **Learning to Stay Safe: Adaptive Regularization Against Safety Degradation during Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2602.17546)] [[code]](https://github.com/gjyotin305/adaptive-ai-safety-align)
+
+
+
 #### Post-Fine-tuning Stage Defenses
 - [2023/11/02] **Making Harmful Behaviors Unlearnable for Large Language Models** *ACL2024* [[paper](https://arxiv.org/abs/2311.02105)]
 
