@@ -224,6 +224,7 @@
 
 - [2025/12/10]  **Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning** *arXiv* [[paper](https://arxiv.org/pdf/2512.10150]
 
+- [2026/12/10]  **Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink** *arXiv* [[paper](https://arxiv.org/abs/2602.05228)] [[code]](https://github.com/Lslland/Surgery)
 
 #### Post-Fine-tuning Stage Defenses
 - [2023/11/02] **Making Harmful Behaviors Unlearnable for Large Language Models** *ACL2024* [[paper](https://arxiv.org/abs/2311.02105)]
