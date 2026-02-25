@@ -224,6 +224,8 @@
 
 - [2025/12/10]  **Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning** *arXiv* [[paper](https://arxiv.org/pdf/2512.10150]
 
+- [2026/01/12]  **Safeguarding LLM Fine-tuning via Push-Pull Distributional Alignment** *arXiv* [[paper](https://arxiv.org/pdf/2601.07200)] 
+
 - [2026/02/05]  **Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink** *arXiv* [[paper](https://arxiv.org/abs/2602.05228)] [[code]](https://github.com/Lslland/Surgery)
 
 - [2026/02/18]  **NeST: Neuron Selective Tuning for LLM Safety** *arXiv* [[paper](https://arxiv.org/pdf/2602.16835)] 
@@ -231,7 +233,6 @@
 - [2026/02/18]  **Robust Policy Optimization to Prevent Catastrophic Forgetting** *arXiv* [[paper](https://arxiv.org/html/2602.08813v1)] [[code]](https://github.com/Helloworld10011/FRPO)
 
 - [2026/02/19]  **Learning to Stay Safe: Adaptive Regularization Against Safety Degradation during Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2602.17546)] [[code]](https://github.com/gjyotin305/adaptive-ai-safety-align)
-
 
 
 #### Post-Fine-tuning Stage Defenses
@@ -290,6 +291,9 @@
 - [2025/11/25] **Safe and Effective Post-Fine-tuning Alignment in Large Language Models** *KBS* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501562X?casa_token=YJyjd_v8r18AAAAA:ZizlHacJE5cB98TfKzyOoU2Q1jgPGC5NyFRndU72AjhDtAwZxHneiHi73Cz_Cp7Bv87TXBDq5EN8)]
 
 - [2025/01/06] **Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance** *ICLR2026* [[paper](https://arxiv.org/pdf/2601.01887)] [[code](https://github.com/Kevin-Zh-CS/safety-at-one-shot)]
+
+- [2025/01/13] **Q-realign: Piggybacking Realignment on Quantization for Safe andEfficient LLM Deployment** *arxiv* [[paper](https://arxiv.org/pdf/2601.08089)] [[code](https://github.com/Skilteee/Q-Realign)]
+
 
  - [2025/01/15] **Understanding and Preserving Safety in Fine-Tuned LLMs** *arXiv* [[paper](https://arxiv.org/abs/2601.10141)] 
 
