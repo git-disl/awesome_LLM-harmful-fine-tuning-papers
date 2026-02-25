@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2026/01/9)
+💫 **Continuously update on a weekly basis.** (last update: 2026/02/25)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accepted by NeurIPS2024** 
 
@@ -67,7 +67,7 @@
 *arXiv* [[paper](https://arxiv.org/pdf/2502.14828)]
 - [2025/02/26] **No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data**
 *arXiv* [[paper](https://arxiv.org/pdf/2502.19537)]
-- [2025/03/05] **Emergent Misalignment:Narrow finetuning can produce broadly misaligned LLMs** *arXiv* [[paper](https://arxiv.org/pdf/2502.17424)]
+- [2025/03/05] **Emergent Misalignment:Narrow finetuning can produce broadly misaligned LLMs** *Nature* [[paper](https://arxiv.org/pdf/2502.17424)]
 - [2025/05/1] **Tongue-Tied: Breaking LLMs Safety Through New Language Learning** *CALCS* [[paper](https://aclanthology.org/2025.calcs-1.5.pdf)] 
 - [2025/05/11] **Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety** *ICML2025* [[paper](https://arxiv.org/pdf/2505.06843)] [[code](https://github.com/GuanZihan/Benign-Samples-Matter/)]
 - [2025/05/11] **SafeCOMM: What about Safety Alignment in Fine-Tuned Telecom Large Language Models?**   *arXiv* [[paper](https://arxiv.org/pdf/2506.00062)] 
@@ -224,7 +224,11 @@
 
 - [2025/12/10]  **Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning** *arXiv* [[paper](https://arxiv.org/pdf/2512.10150]
 
-- [2026/12/10]  **Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink** *arXiv* [[paper](https://arxiv.org/abs/2602.05228)] [[code]](https://github.com/Lslland/Surgery)
+- [2026/02/05]  **Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink** *arXiv* [[paper](https://arxiv.org/abs/2602.05228)] [[code]](https://github.com/Lslland/Surgery)
+
+- [2026/02/18]  **NeST: Neuron Selective Tuning for LLM Safety** *arXiv* [[paper](https://arxiv.org/pdf/2602.16835)] 
+
+- [2026/02/18]  **Robust Policy Optimization to Prevent Catastrophic Forgetting** *arXiv* [[paper](https://arxiv.org/html/2602.08813v1)] [[code]](https://github.com/Helloworld10011/FRPO)
 
 #### Post-Fine-tuning Stage Defenses
 - [2023/11/02] **Making Harmful Behaviors Unlearnable for Large Language Models** *ACL2024* [[paper](https://arxiv.org/abs/2311.02105)]
@@ -299,6 +303,8 @@
 - [2025/6/30] **Foundational Models Must Be Designed To Yield Safer Loss Landscapes That Resist Harmful Fine-Tuning** *ICML 2025 R2-FM Workshop* [[paper](https://openreview.net/pdf?id=XfyLKIpxl2)]   
 - [2025/8/08] **In-Training Defenses against Emergent Misalignment in Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2508.06249)]    [[Code](https://github.com/davidkaczer/emergent-misalignment)]
 - [2025/10/08] **Accidental Vulnerability: Factors in Fine-Tuning that Shift Model Safeguards** *arXiv* [[paper](https://openreview.net/forum?id=X5YiG1YXVT)]   
+
+- [2025/02/25]  **The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety** *arXiv* [[paper](https://arxiv.org/pdf/2602.15799)]   
 
 
 ### Benchmark
