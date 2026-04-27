@@ -10,7 +10,7 @@
 
 🔥 **Must-read papers for harmful fine-tuning attacks/defenses for LLMs.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2026/02/25)
+💫 **Continuously update on a weekly basis.** (last update: 2026/04/27)
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accepted by NeurIPS2024** 
 
@@ -127,6 +127,11 @@
 
 - [2025/10/11]   **Pharmacist: Safety Alignment Data Curation for Large Language Models against Harmful Fine-tuning** *arXiv* [[paper](https://arxiv.org/abs/2510.10085)] [[code](https://github.com/Lslland/Pharmacist)]
 
+- [2026/04/06]   **Immunizing 3D Gaussian Generative Models Against Unauthorized Fine-Tuning via Attribute-Space Traps** *arXiv* [[paper](https://arxiv.org/pdf/2604.09688)]
+
+
+
+
 #### Fine-tuning Stage Defenses
 - [2023/8/25] **Fine-tuning can cripple your foundation model; preserving features may be the solution** *TMLR* [[paper](https://arxiv.org/abs/2308.13320)] [[code](https://github.com/omegafragger/ldifs_code)]
 
@@ -194,7 +199,7 @@
 
 - [2025/08/17] **Rethinking Safety in LLM Fine-tuning: An Optimization Perspective**  *COLM2025* [[paper]](https://arxiv.org/pdf/2508.12531)
 
-- [2025/08/18] **Gradient Surgery for Safe LLM Fine-Tuning**  *arXiv* [[paper]](https://arxiv.org/abs/2508.07172)  [[code]](https://anonymous.4open.science/r/SafeGrad-yi5AF1)
+- [2025/08/18] **Gradient Surgery for Safe LLM Fine-Tuning**  *ICASSP2026* [[paper]](https://arxiv.org/abs/2508.07172)  [[code]](https://anonymous.4open.science/r/SafeGrad-yi5AF1)
 
 - [2025/08/23] **Towards Safeguarding LLM Fine-tuning APIs against Cipher Attacks** *arXiv* [[paper]](https://arxiv.org/pdf/2508.17158)  [[code]](https://github.com/JackYoustra/safe-finetuning-api)
 
@@ -233,6 +238,15 @@
 - [2026/02/18]  **Robust Policy Optimization to Prevent Catastrophic Forgetting** *arXiv* [[paper](https://arxiv.org/html/2602.08813v1)] [[code]](https://github.com/Helloworld10011/FRPO)
 
 - [2026/02/19]  **Learning to Stay Safe: Adaptive Regularization Against Safety Degradation during Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2602.17546)] [[code]](https://github.com/gjyotin305/adaptive-ai-safety-align)
+
+- [2026/03/10]  **GR-SAP: Generative Replay for Safety Alignment Preservation during Fine-Tuning** *arXiv* [[paper](https://arxiv.org/abs/2603.10243)] 
+
+- [2026/04/14]  **Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints** *arXiv* [[paper](https://arxiv.org/pdf/2604.12384)] 
+
+- [2026/04/19]  **Continual Safety Alignment via Gradient-Based Sample Selection** *ACL2026* [[paper](https://arxiv.org/pdf/2604.17215)] 
+
+- [2026/04/19]  **Guardrails in Logit Space: Safety Token Regularization for LLM Alignment Preservation** *arXiv* [[paper](https://arxiv.org/abs/2604.17210)] 
+
 
 
 #### Post-Fine-tuning Stage Defenses
@@ -290,12 +304,14 @@
 - [2025/11/22]  **Curvature-Aware Safety Restoration In LLMs Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2511.18039)]
 - [2025/11/25] **Safe and Effective Post-Fine-tuning Alignment in Large Language Models** *KBS* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501562X?casa_token=YJyjd_v8r18AAAAA:ZizlHacJE5cB98TfKzyOoU2Q1jgPGC5NyFRndU72AjhDtAwZxHneiHi73Cz_Cp7Bv87TXBDq5EN8)]
 
-- [2025/01/06] **Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance** *ICLR2026* [[paper](https://arxiv.org/pdf/2601.01887)] [[code](https://github.com/Kevin-Zh-CS/safety-at-one-shot)]
+- [2026/01/06] **Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance** *ICLR2026* [[paper](https://arxiv.org/pdf/2601.01887)] [[code](https://github.com/Kevin-Zh-CS/safety-at-one-shot)]
 
-- [2025/01/13] **Q-realign: Piggybacking Realignment on Quantization for Safe andEfficient LLM Deployment** *arxiv* [[paper](https://arxiv.org/pdf/2601.08089)] [[code](https://github.com/Skilteee/Q-Realign)]
+- [2026/01/13] **Q-realign: Piggybacking Realignment on Quantization for Safe andEfficient LLM Deployment** *arxiv* [[paper](https://arxiv.org/pdf/2601.08089)] [[code](https://github.com/Skilteee/Q-Realign)]
 
 
- - [2025/01/15] **Understanding and Preserving Safety in Fine-Tuned LLMs** *arXiv* [[paper](https://arxiv.org/abs/2601.10141)] 
+ - [2026/01/15] **Understanding and Preserving Safety in Fine-Tuned LLMs** *arXiv* [[paper](https://arxiv.org/abs/2601.10141)] 
+
+- [2026/04/21] **Dualguard: Two-Stage Alignment Preservation for Safe PEFT** *ICASSP* [[paper](https://ieeexplore.ieee.org/abstract/document/11460854)] 
 
 ### Interpretability Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
