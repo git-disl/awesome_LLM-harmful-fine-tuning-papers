@@ -14,8 +14,6 @@
 
 🔥 **Good news: 7 harmful fine-tuning related papers are accepted by NeurIPS2024** 
 
-💫 **We have updated our [survey](https://arxiv.org/pdf/2409.18169), including the discussion on the 17 ICLR2025 new submissions.** 
-
 🔥 **We update a slide to introduce harmful fine-tuning attacks/defenses. Check out the [slide](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers/blob/main/survey_slide.pdf) here.** 
 
 🔥 **Good news: 12 harmful fine-tuning related papers were accepted by ICLR2025. Consider to check them out!** 
@@ -29,6 +27,8 @@
 🔥 **Chef Recommendation: Harmful fine-tuning increase biorisk and cybersecurity risk of OpenAI flagship model gpt-oss. Check out the recent [OpenAI technical report](https://arxiv.org/pdf/2508.03153)**. 
 
 🔥 **Good news: 10 harmful fine-tuning related papers were accepted by ICLR2026. Consider to check them out!**. 
+
+🔥 **Harmful fine-tuning [survey](https://arxiv.org/pdf/2409.18169) has been accepted by ACM CSUR. We are preparing the camera ready. Feel free to reach out if you find missing reference**. 
 
 ## Content
 
@@ -231,7 +231,12 @@
 
 - [2026/01/12]  **Safeguarding LLM Fine-tuning via Push-Pull Distributional Alignment** *arXiv* [[paper](https://arxiv.org/pdf/2601.07200)] 
 
+- [2026/02/02]  **Alignment-Aware Model Adaptation via Feedback-Guided Optimization** *arXiv* [[paper](https://arxiv.org/abs/2602.02258)]
+
+
 - [2026/02/05]  **Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink** *arXiv* [[paper](https://arxiv.org/abs/2602.05228)] [[code]](https://github.com/Lslland/Surgery)
+
+- [2026/02/06]  **Can LLM Safety Be Ensured by Constraining Parameter Regions?** *arXiv* [[paper](https://arxiv.org/pdf/2602.17696)] 
 
 - [2026/02/18]  **NeST: Neuron Selective Tuning for LLM Safety** *arXiv* [[paper](https://arxiv.org/pdf/2602.16835)] 
 
@@ -246,6 +251,12 @@
 - [2026/04/19]  **Continual Safety Alignment via Gradient-Based Sample Selection** *ACL2026* [[paper](https://arxiv.org/pdf/2604.17215)] 
 
 - [2026/04/19]  **Guardrails in Logit Space: Safety Token Regularization for LLM Alignment Preservation** *arXiv* [[paper](https://arxiv.org/abs/2604.17210)] 
+
+
+- [2026/04/20]  **SafeAnchor: Preventing Cumulative Safety Erosion in Continual Domain Adaptation of Large Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2604.17691)] 
+
+
+
 
 
 
@@ -300,6 +311,8 @@
 - [2025/10/08] **Surgical Safety Repair: A Parameter-Isolated Approach to Correcting Harmful Fine-tuning** *preprint* [[paper](https://openreview.net/forum?id=QC986S5uEp)]
 - [2025/10/09] **MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation** *NeurIPS 2025* [[paper](https://arxiv.org/pdf/2510.07835)] [[code](https://github.com/ws-jiang/MetaDefense)]
 
+- [2025/11/11] **Safe and Deployable LLM Adaptation: Directional Deviation Index–Guided Model Pruning** *AAAI26 DAI workshop* [[paper](https://openreview.net/pdf?id=uuGGtZCU0W)] 
+
 - [2025/11/13]  **ENCHTABLE: Unified Safety Alignment Transfer in Fine-tuned Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2511.09880)]
 - [2025/11/22]  **Curvature-Aware Safety Restoration In LLMs Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2511.18039)]
 - [2025/11/25] **Safe and Effective Post-Fine-tuning Alignment in Large Language Models** *KBS* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501562X?casa_token=YJyjd_v8r18AAAAA:ZizlHacJE5cB98TfKzyOoU2Q1jgPGC5NyFRndU72AjhDtAwZxHneiHi73Cz_Cp7Bv87TXBDq5EN8)]
@@ -311,7 +324,9 @@
 
  - [2026/01/15] **Understanding and Preserving Safety in Fine-Tuned LLMs** *arXiv* [[paper](https://arxiv.org/abs/2601.10141)] 
 
-- [2026/04/21] **Dualguard: Two-Stage Alignment Preservation for Safe PEFT** *ICASSP* [[paper](https://ieeexplore.ieee.org/abstract/document/11460854)] 
+- [2026/04/21] **Dualguard: Two-Stage Alignment Preservation for Safe PEFT** *ICASSP26* [[paper](https://ieeexplore.ieee.org/abstract/document/11460854)] 
+
+
 
 ### Interpretability Study
 - [2024/5/25] **No two devils alike: Unveiling distinct mechanisms of fine-tuning attacks** *arXiv* [[paper](https://arxiv.org/abs/2405.16229)] 
