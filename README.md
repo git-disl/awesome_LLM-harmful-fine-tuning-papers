@@ -345,6 +345,7 @@
 
 - [2025/02/25]  **The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety** *arXiv* [[paper](https://arxiv.org/pdf/2602.15799)]   
 
+- [2026/05/14]  **One Step to the Side: Why Defenses Against Malicious Finetuning Fail Under Adaptive Adversaries** *arXiv* [[paper](https://arxiv.org/pdf/2605.14605)]   
 
 ### Benchmark
 - [2024/9/19] **Defending against Reverse Preference Attacks is Difficult** *arXiv* [[paper](https://arxiv.org/abs/2409.12914)] [[code](https://github.com/domenicrosati/representation-noising-xpo)]
