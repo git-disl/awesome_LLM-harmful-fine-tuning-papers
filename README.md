@@ -231,6 +231,8 @@
 
 - [2026/01/12]  **Safeguarding LLM Fine-tuning via Push-Pull Distributional Alignment** *arXiv* [[paper](https://arxiv.org/pdf/2601.07200)] 
 
+- [2026/01/15] **Understanding and Preserving Safety in Fine-Tuned LLMs** *CCS26* [[paper](https://arxiv.org/abs/2601.10141)] 
+
 - [2026/02/02]  **Alignment-Aware Model Adaptation via Feedback-Guided Optimization** *arXiv* [[paper](https://arxiv.org/abs/2602.02258)]
 
 
@@ -322,7 +324,6 @@
 - [2026/01/13] **Q-realign: Piggybacking Realignment on Quantization for Safe andEfficient LLM Deployment** *arxiv* [[paper](https://arxiv.org/pdf/2601.08089)] [[code](https://github.com/Skilteee/Q-Realign)]
 
 
- - [2026/01/15] **Understanding and Preserving Safety in Fine-Tuned LLMs** *arXiv* [[paper](https://arxiv.org/abs/2601.10141)] 
 
 - [2026/04/21] **Dualguard: Two-Stage Alignment Preservation for Safe PEFT** *ICASSP26* [[paper](https://ieeexplore.ieee.org/abstract/document/11460854)] 
 
