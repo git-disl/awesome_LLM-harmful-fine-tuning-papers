@@ -87,6 +87,12 @@
 
 - [2025/10/17]  **HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment** *arXiv* [[paper](https://arxiv.org/pdf/2510.15499)]  [[code](https://github.com/lyxx2535/HarmRLVR)]
 
+
+
+- [2026/07/22] **Security in the Fine-Tuning Lifecycle of Large LanguageModels: Threats, Defenses, Evaluation, andFuture Directions** *arXiv* [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.70098)]  
+
+
+
 ### Defenses
 #### Pre-training Stage Defenses
 - [2025/8/8] **Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs** *arXiv* [[paper](https://arxiv.org/abs/2508.06601)] [[code](https://github.com/EleutherAI/deep-ignorance)] 
@@ -128,6 +134,19 @@
 - [2025/10/11]   **Pharmacist: Safety Alignment Data Curation for Large Language Models against Harmful Fine-tuning** *arXiv* [[paper](https://arxiv.org/abs/2510.10085)] [[code](https://github.com/Lslland/Pharmacist)]
 
 - [2026/04/06]   **Immunizing 3D Gaussian Generative Models Against Unauthorized Fine-Tuning via Attribute-Space Traps** *arXiv* [[paper](https://arxiv.org/pdf/2604.09688)]
+
+- [2026/05/11]   **Locking Pretrained Weights via Deep Low-Rank Residual Distillation** *arXiv* [[paper](https://arxiv.org/pdf/2605.10777)]
+
+
+- [2026/05/28]   **Aligned but Fragile: Enhancing LLM Safety Robustness via Zeroth-Order Optimization** *arXiv* [[paper](https://arxiv.org/pdf/2605.29396)] 
+
+- [2026/07/01]   **SGT: Securing Open-Source LLMs Against Malicious Fine-tuning via Safety Guidance Trigger** *arXiv* [[paper](https://aclanthology.org/2026.acl-long.463.pdf)] [[code](https://github.com/ssw1419-korea/SGT)]
+
+- [2026/07/01]  **OASIS: Mitigating Harmful Fine-tuning Attacks on LLMs via Orthogonal and Adaptive Safety Alignment Strategy** *arXiv* [[paper](https://aclanthology.org/2026.acl-long.1310.pdf)] [[code](https://github.com/xiaoroyi/OASIS)]
+
+- [2026/07/24]   **Distribution-Specific Curvature Control with Finite-Sample Guarantees for Open-Weight Safety** *arXiv* [[paper](https://arxiv.org/pdf/2607.22929)]
+
+- [2026/08/05]   **Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning** *arXiv* [[paper](https://arxiv.org/abs/2608.05045)] [[code](https://github.com/OpenCausaLab/Gradient-Immunity)]
 
 
 
@@ -257,7 +276,20 @@
 
 - [2026/04/20]  **SafeAnchor: Preventing Cumulative Safety Erosion in Continual Domain Adaptation of Large Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2604.17691)] 
 
+- [2026/06/24]  **Toward Safe Quantization-Aware Fine-tuning: Understanding and Mitigating Safety Alignment Degradation** *ICML26* [[paper](https://openreview.net/forum?id=vF2Xhg2s31)] 
 
+- [2026/05/29]  **DataShield: Safety-degrading Data Filtering for LLM Benign Instruction Fine-Tuning** *arXiv* [[paper](https://arxiv.org/pdf/2606.00160)] 
+
+- [2026/06/29]  **Defending Against Harmful Supervision Hidden in Benign Samples** *arXiv* [[paper](https://arxiv.org/pdf/2606.30263)] [[code](https://github.com/ABgit111/DR-SFT)]
+
+- [2026/07/01]  **Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints** *ACL26* [[paper](https://aclanthology.org/2026.findings-acl.874.pdf)]  
+
+
+- [2026/08/08]  **SAFT: Safety-Preserving Adaptation via Fine-Tuning Transfer for Large Language Models** *KDD26* [[paper](https://dl.acm.org/doi/pdf/10.1145/3770855.3817883)] 
+
+- [2026/08/10]  **Safety-Anchored Fine-Tuning: Diagnosing and Preventing SafetyCollapse in Large Language Models via Adversarial Alignment Anchoring** *Workshop on Trustworthy AI for Good, ICML 2026* [[paper](https://openreview.net/pdf?id=8rLFXLgg6H)] 
+
+- [2026/08/24]  **Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty** *arXiv* [[paper](https://arxiv.org/pdf/2608.23497)] 
 
 
 
@@ -327,6 +359,9 @@
 
 - [2026/04/21] **Dualguard: Two-Stage Alignment Preservation for Safe PEFT** *ICASSP26* [[paper](https://ieeexplore.ieee.org/abstract/document/11460854)] 
 
+- [2026/07/13]  **HyperSafe: Inference-Time Safety Recovery for Fine-Tuned Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2607.11475)] [[code](https://github.com/nokronim/project-safety-remedy)
+
+
 
 
 ### Interpretability Study
@@ -347,6 +382,10 @@
 - [2025/02/25]  **The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety** *arXiv* [[paper](https://arxiv.org/pdf/2602.15799)]   
 
 - [2026/05/14]  **One Step to the Side: Why Defenses Against Malicious Finetuning Fail Under Adaptive Adversaries** *arXiv* [[paper](https://arxiv.org/pdf/2605.14605)]   
+
+- [2026/07/05]  **The Safety Illusion of Greedy Decoding: Diagnosing Booster’s Compliant Leakage and a Phase-2 Mitigation** *ICML 2026 AIWILD* [[paper](https://openreview.net/pdf?id=726H4Ll0mb)
+
+
 
 ### Benchmark
 - [2024/9/19] **Defending against Reverse Preference Attacks is Difficult** *arXiv* [[paper](https://arxiv.org/abs/2409.12914)] [[code](https://github.com/domenicrosati/representation-noising-xpo)]
