@@ -383,7 +383,7 @@
 
 - [2026/05/14]  **One Step to the Side: Why Defenses Against Malicious Finetuning Fail Under Adaptive Adversaries** *arXiv* [[paper](https://arxiv.org/pdf/2605.14605)]   
 
-- [2026/07/05]  **The Safety Illusion of Greedy Decoding: Diagnosing Booster’s Compliant Leakage and a Phase-2 Mitigation** *ICML 2026 AIWILD* [[paper](https://openreview.net/pdf?id=726H4Ll0mb)
+- [2026/07/05]  **The Safety Illusion of Greedy Decoding: Diagnosing Booster’s Compliant Leakage and a Phase-2 Mitigation** *ICML 2026 AIWILD* [[paper](https://openreview.net/pdf?id=726H4Ll0mb)]
 
 
 
